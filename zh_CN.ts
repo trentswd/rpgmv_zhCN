@@ -4666,7 +4666,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turn 180°</source>
-        <translation>转 180°</translation>
+        <translation>旋转180°</translation>
     </message>
     <message>
         <source>Move Lower Left</source>
@@ -4690,7 +4690,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Speed</source>
-        <translation>速度</translation>
+        <translation>移动速度</translation>
     </message>
     <message>
         <source>Turn Right</source>
@@ -4698,7 +4698,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>事件移动时的行走动画设置为OFF。</translation>
+        <translation>设置事件移动时行走动画为OFF。</translation>
     </message>
     <message>
         <source>Switch ON</source>
@@ -4706,11 +4706,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Makes the character invisible.</source>
-        <translation>使人物看不见。</translation>
+        <translation>使人物不可见。</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>播放指定 SE。</translation>
+        <translation>播放指定的SE。</translation>
     </message>
     <message>
         <source>Makes the character visible.</source>
@@ -4718,7 +4718,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turn 90° Left</source>
-        <translation>左转 90°</translation>
+        <translation>左转90°</translation>
     </message>
     <message>
         <source>Moves to the lower tile.</source>
@@ -4730,23 +4730,23 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the right or left.</source>
-        <translation>面朝右或左 90 度。</translation>
+        <translation>从现在的方向，向右或左90度的方向旋转。</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>更改频率。仅应用到自主移动。</translation>
+        <translation>更改移动的频度。只影响自主移动。</translation>
     </message>
     <message>
         <source>Move away from Player</source>
-        <translation>移动离开玩家</translation>
+        <translation>远离玩家</translation>
     </message>
     <message>
         <source>Faces the opposite direction.</source>
-        <translation>面朝相反方向。</translation>
+        <translation>面对现在朝向的相反方向。</translation>
     </message>
     <message>
         <source>Stepping Animation ON</source>
-        <translation>踏步动画 ON</translation>
+        <translation>踏步动画ON</translation>
     </message>
     <message>
         <source>Move Lower Right</source>
@@ -4758,7 +4758,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the right.</source>
-        <translation>面朝右 90 度。</translation>
+        <translation>面向从现在朝向向右90度旋转的方向。</translation>
     </message>
     <message>
         <source>Move at Random</source>
@@ -4774,11 +4774,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>事件停止时的踏步动画设为ON。</translation>
+        <translation>设置事件停止时踏步动画为ON。</translation>
     </message>
     <message>
         <source>Change Speed</source>
-        <translation>更改速度</translation>
+        <translation>更改移动速度</translation>
     </message>
     <message>
         <source>Change Image</source>
@@ -4786,11 +4786,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>移动到右图块。</translation>
+        <translation>移动到右边图块。</translation>
     </message>
     <message>
         <source>Moves away from the current location of the player.</source>
-        <translation>移动离开玩家当前位置。</translation>
+        <translation>移动到远离玩家的位置。</translation>
     </message>
     <message>
         <source>Moves in the current direction.</source>
@@ -4858,19 +4858,19 @@ the Guard command.</source>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>不转身朝相反方向移动。</translation>
+        <translation>不改变朝向，往现在面向相反的方向移动。</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>事件移动时的行走动画设为ON。</translation>
+        <translation>设置事件移动时行走动画为ON。</translation>
     </message>
     <message>
         <source>Walking Animation ON</source>
-        <translation>行走动画 ON</translation>
+        <translation>行走动画ON</translation>
     </message>
     <message>
         <source>Through ON</source>
-        <translation>穿过 ON</translation>
+        <translation>穿透ON</translation>
     </message>
     <message>
         <source>Undefined Command</source>
@@ -4882,7 +4882,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>播放 SE</translation>
+        <translation>播放SE</translation>
     </message>
     <message>
         <source>Move Right</source>
@@ -4898,11 +4898,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Change Frequency</source>
-        <translation>更改频率</translation>
+        <translation>更改移动频度</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>不能改变人物的方向。</translation>
+        <translation>使人物的方向不能改变。</translation>
     </message>
     <message>
         <source>Change Opacity</source>
@@ -4918,7 +4918,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turn at Random</source>
-        <translation>随机转</translation>
+        <translation>随机转向</translation>
     </message>
     <message>
         <source>Change Blend Mode</source>
@@ -4942,7 +4942,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>1 Step Forward</source>
-        <translation>1 步向前</translation>
+        <translation>一步前进</translation>
     </message>
     <message>
         <source>Walking Animation OFF</source>
@@ -4958,11 +4958,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turn 90° Right</source>
-        <translation>右转 90°</translation>
+        <translation>右转90°</translation>
     </message>
     <message>
         <source>Through OFF</source>
-        <translation>穿过OFF</translation>
+        <translation>穿透OFF</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
@@ -4982,7 +4982,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Frequency</source>
-        <translation>频率</translation>
+        <translation>移动频度</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
@@ -4990,15 +4990,15 @@ the Guard command.</source>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>移动到左图块。</translation>
+        <translation>移动到左边的图块。</translation>
     </message>
     <message>
         <source>Turn 90° Right or Left</source>
-        <translation>左转或左转 90°</translation>
+        <translation>左转或左转90°</translation>
     </message>
     <message>
         <source>1 Step Backward</source>
-        <translation>1 步向后</translation>
+        <translation>一步后退</translation>
     </message>
     <message>
         <source>Moves toward the current location of the player.</source>
@@ -5006,7 +5006,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>将文字作为 JavaScript 评估。</translation>
+        <translation>将文本作为JavaScript运行。</translation>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
@@ -5014,7 +5014,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the left.</source>
-        <translation>面朝左 90 度。</translation>
+        <translation>面向从现在朝向向左90度旋转的方向。</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
@@ -5022,7 +5022,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>更改速度。</translation>
+        <translation>更改移动速度。</translation>
     </message>
     <message>
         <source>Direction Fix ON</source>
@@ -5034,7 +5034,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>事件停止时的踏步动画设为OFF。</translation>
+        <translation>设置事件停止时踏步动画为OFF。</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
