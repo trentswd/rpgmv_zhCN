@@ -2627,7 +2627,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Location</source>
-        <translation>场所</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Variable containing the ID of the map.</source>
@@ -6571,7 +6571,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Location</source>
-        <translation>场所</translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
@@ -11602,7 +11602,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Location</source>
-        <translation>场所</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Transfer</source>
@@ -12100,26 +12100,26 @@ the Guard command.</source>
     <name>DataSelector</name>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation type="unfinished">所选项目的内容显示于窗口右边。&lt;br&gt;[F5] 选择下一个项目。&lt;br&gt;[F4] 选择前一个项目。</translation>
+        <translation>该列表中所选项目的内容显示于窗口右边。&lt;br&gt;[F5] 选择下一个项目。&lt;br&gt;[F4] 选择前一个项目。</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
-        <translation type="unfinished">更改数据输入数。</translation>
+        <translation>更改数据项目的数量。</translation>
     </message>
     <message>
         <source>Data List</source>
-        <translation type="unfinished">数据列表</translation>
+        <translation>数据列表</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translation type="unfinished">更改最大值</translation>
+        <translation>更改最大值</translation>
     </message>
 </context>
 <context>
     <name>EventCommand317</name>
     <message>
         <source>Parameter type to increase or decrease.</source>
-        <translation type="unfinished">要增加或减少的能力值类型。</translation>
+        <translation>要增加或减少的能力值类型。</translation>
     </message>
     <message>
         <source>Parameter</source>
@@ -12130,35 +12130,35 @@ the Guard command.</source>
     <name>Dialog_Deployment</name>
     <message>
         <source>Platform</source>
-        <translation type="unfinished">平台</translation>
+        <translation>平台</translation>
     </message>
     <message>
         <source>Deployment</source>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation type="unfinished">选择位置。</translation>
+        <translation>选择位置。</translation>
     </message>
     <message>
         <source>Location to create the package folder.</source>
-        <translation type="unfinished">要创建套件文件夹的位置。</translation>
+        <translation>要创建软件包文件夹的位置。</translation>
     </message>
     <message>
         <source>Creates a package for Android and iOS.</source>
-        <translation type="unfinished">创建Android/iOS 封包。</translation>
+        <translation>创建Android/iOS用的软件包。</translation>
     </message>
     <message>
         <source>Mac OS X</source>
-        <translation type="unfinished">Mac OS X</translation>
+        <translation>Mac OS X</translation>
     </message>
     <message>
         <source>Creates a package for Windows.</source>
-        <translation type="unfinished">创建 Windows 套件。</translation>
+        <translation>创建Windows用的软件包。</translation>
     </message>
     <message>
         <source>Target platform of the distribution package.</source>
@@ -12166,207 +12166,207 @@ the Guard command.</source>
     </message>
     <message>
         <source>Creates a package for Mac OS X.</source>
-        <translation type="unfinished">创建 Mac OS X 套件。</translation>
+        <translation>创建Mac OS X用的软件包。</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation type="unfinished">路径名称过长。</translation>
+        <translation>路径名称过长。</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation type="unfinished">位置为空。</translation>
+        <translation>位置为空。</translation>
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished">Windows</translation>
+        <translation>Windows</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation type="unfinished">选择目录</translation>
+        <translation>选择目录</translation>
     </message>
     <message>
         <source>Android / iOS</source>
-        <translation type="unfinished">Android / iOS</translation>
+        <translation>Android / iOS</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation type="unfinished">导出位置</translation>
+        <translation>导出位置</translation>
     </message>
 </context>
 <context>
     <name>EventCommand137</name>
     <message>
         <source>Enables the formation command.</source>
-        <translation type="unfinished">启用队形指令。</translation>
+        <translation>启用队形指令。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Formation</source>
-        <translation type="unfinished">队形</translation>
+        <translation>队形</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">禁用</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Selects whether to enable or disable the formation command.</source>
-        <translation type="unfinished">选择是否启用或禁用队形指令。</translation>
+        <translation>选择启用或禁用队形指令。</translation>
     </message>
     <message>
         <source>Disables the formation command.</source>
-        <translation type="unfinished">禁用队形指令。</translation>
+        <translation>禁用队形指令。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand336</name>
     <message>
         <source>Enemy to transform.</source>
-        <translation type="unfinished">要变形的敌人。</translation>
+        <translation>要变身的敌人。</translation>
     </message>
     <message>
         <source>Specifies which enemy to transform into.</source>
-        <translation type="unfinished">指定要变形为哪个敌人。</translation>
+        <translation>指定要变身为哪个敌人。</translation>
     </message>
     <message>
         <source>Transform to</source>
-        <translation type="unfinished">变形为</translation>
+        <translation>变身</translation>
     </message>
 </context>
 <context>
     <name>FileListBox</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(无)</translation>
+        <translation>(无)</translation>
     </message>
 </context>
 <context>
     <name>EventCommand136</name>
     <message>
         <source>Selects whether to enable or disable the random encounters.</source>
-        <translation type="unfinished">选择是否启用或禁用随机冲突。</translation>
+        <translation>选择启用或禁用随机遇敌。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Disables the random encounters.</source>
-        <translation type="unfinished">禁用随机冲突。</translation>
+        <translation>禁用随机遇敌。</translation>
     </message>
     <message>
         <source>Encounter</source>
-        <translation type="unfinished">冲突</translation>
+        <translation>遇敌</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">禁用</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Enables the random encounters.</source>
-        <translation type="unfinished">启用随机冲突。</translation>
+        <translation>启用随机遇敌。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MagicSkill</name>
     <message>
         <source>Skill Type</source>
-        <translation type="unfinished">技能类型</translation>
+        <translation>技能类型</translation>
     </message>
     <message>
         <source>Magic Skill</source>
-        <translation type="unfinished">魔法技能</translation>
+        <translation>魔法技能</translation>
     </message>
     <message>
         <source>Type of the skill.</source>
-        <translation type="unfinished">技能的类型。</translation>
+        <translation>技能的类型。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AudioSelector</name>
     <message>
         <source>Select an Audio</source>
-        <translation type="unfinished">选择音频</translation>
+        <translation>选择音频</translation>
     </message>
 </context>
 <context>
     <name>MapEditorMainView</name>
     <message>
         <source>Cannot create any more events.</source>
-        <translation type="unfinished">不能创建任何更多事件。</translation>
+        <translation>不能创建更多事件。</translation>
     </message>
 </context>
 <context>
     <name>Group_Duration</name>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation type="unfinished">等待效果完成。</translation>
+        <translation>等待效果完成。</translation>
     </message>
     <message>
         <source>frames (1/60 sec)</source>
-        <translation type="unfinished">帧 (1/60秒)</translation>
+        <translation>帧 (1/60秒)</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">持续时间</translation>
+        <translation>时间</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation type="unfinished">等待完成</translation>
+        <translation>等待完成</translation>
     </message>
     <message>
         <source>Duration of the effect in frames.</source>
-        <translation type="unfinished">帧的效果持续时间。</translation>
+        <translation>以帧为单位指定效果时间。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand242</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation type="unfinished">以秒为单位的淡出时间。</translation>
+        <translation>以秒为单位指定淡出时间。</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>EventCommand246</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation type="unfinished">以秒为单位的淡出时间。</translation>
+        <translation>以秒为单位指定淡出时间。</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ImageSave</name>
     <message>
         <source>Loads a base image from a file.</source>
-        <translation type="unfinished">从文件中读取基本图像。</translation>
+        <translation>从文件中读取基本的图像。</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">导出</translation>
+        <translation>导出</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished">导入</translation>
+        <translation>导入</translation>
     </message>
     <message>
         <source>Saves the image to a file.</source>
-        <translation type="unfinished">保存图像至文件。</translation>
+        <translation>保存图像至文件。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Packaging</name>
     <message>
         <source>Deployment</source>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -12377,334 +12377,334 @@ the Guard command.</source>
     <name>Group_Operand</name>
     <message>
         <source>Game Data</source>
-        <translation type="unfinished">游戏数据</translation>
+        <translation>游戏数据</translation>
     </message>
     <message>
         <source>Uses the value of the specified variable.</source>
-        <translation type="unfinished">使用指定变量的值。</translation>
+        <translation>使用指定变量的值。</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished">随机</translation>
+        <translation>随机数</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished">脚本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <source>Uses a value from various data in the game.</source>
-        <translation type="unfinished">使用来自游戏中各种数据的一个值。</translation>
+        <translation>取得并使用游戏中的各种数据。</translation>
     </message>
     <message>
         <source>Constant</source>
-        <translation type="unfinished">常量</translation>
+        <translation>常量</translation>
     </message>
     <message>
         <source>Operand</source>
-        <translation type="unfinished">操作数</translation>
+        <translation>操作数</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation type="unfinished">变量</translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Uses a random value between two specified values.</source>
-        <translation type="unfinished">使用两个指定值之间的随机值。</translation>
+        <translation>使用两个指定值之间的随机数。</translation>
     </message>
     <message>
         <source>Amount by which to increase or decrease.</source>
-        <translation type="unfinished">要增加或减少的数量。</translation>
+        <translation>要增加或减少的数量。</translation>
     </message>
     <message>
         <source>Uses the constant value.</source>
-        <translation type="unfinished">使用常量值。</translation>
+        <translation>使用常量值。</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation type="unfinished">将文字作为 JavaScript 评估。</translation>
+        <translation>将文字作为JavaScript运行。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand224</name>
     <message>
         <source>Specifies what color to flash with.</source>
-        <translation type="unfinished">指定闪光使用颜色。</translation>
+        <translation>指定闪光使用的颜色。</translation>
     </message>
     <message>
         <source>Flash Color</source>
-        <translation type="unfinished">闪光颜色</translation>
+        <translation>闪光颜色</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ChangeMaximum</name>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished">最大值</translation>
+        <translation>最大值</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translation type="unfinished">更改最大值</translation>
+        <translation>更改最大值</translation>
     </message>
     <message>
         <source>Number of new data entries. When decreasing the number, any existing entries above that number will be deleted.</source>
-        <translation type="unfinished">新数据登录数。当减少该数字，超过该数字的任何现有登录将被删除。</translation>
+        <translation>新数据项目的数量。减少该数字的情况下，超过该数字的任何现有项目将被删除。</translation>
     </message>
 </context>
 <context>
     <name>ObjTroopMemberBox</name>
     <message>
         <source>Entire Troop</source>
-        <translation type="unfinished">整个敌群</translation>
+        <translation>敌群全体</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand28</name>
     <message>
         <source>Switch to be turned OFF.</source>
-        <translation type="unfinished">要设为OFF的开关。</translation>
+        <translation>要设为OFF的开关。</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="unfinished">开关</translation>
+        <translation>开关</translation>
     </message>
 </context>
 <context>
     <name>EventCommand283</name>
     <message>
         <source>Battle Background</source>
-        <translation type="unfinished">战斗背景</translation>
+        <translation>战斗背景</translation>
     </message>
     <message>
         <source>Battle background images to change to.</source>
-        <translation type="unfinished">要更换到的战斗背景图像。</translation>
+        <translation>将战斗背景更改为该项。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_SoundTest</name>
     <message>
         <source>Sound Test</source>
-        <translation type="unfinished">声音测试</translation>
+        <translation>声音测试</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand43</name>
     <message>
         <source>Blend Mode</source>
-        <translation type="unfinished">合成方法</translation>
+        <translation>合成方法</translation>
     </message>
     <message>
         <source>Blend mode used when the character is drawn.</source>
-        <translation type="unfinished">绘制人物时使用的合成方法。</translation>
+        <translation>绘制人物时使用的合成方法。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapSaveAsImage</name>
     <message>
         <source>Choose</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation type="unfinished">选择位置。</translation>
+        <translation>选择位置。</translation>
     </message>
     <message>
         <source>Location to save the map image.</source>
-        <translation type="unfinished">要保存地图图像的位置。</translation>
+        <translation>要保存地图图像的位置。</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation type="unfinished">路径名称过长。</translation>
+        <translation>路径名称过长。</translation>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation type="unfinished">保存为图像</translation>
+        <translation>保存为图像</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation type="unfinished">位置为空。</translation>
+        <translation>位置为空。</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation type="unfinished">选择目录</translation>
+        <translation>选择目录</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation type="unfinished">导出位置</translation>
+        <translation>导出位置</translation>
     </message>
 </context>
 <context>
     <name>EventCommand103</name>
     <message>
         <source>Digits</source>
-        <translation type="unfinished">位数</translation>
+        <translation>位数</translation>
     </message>
     <message>
         <source>Variable containing the numeric value entered by the player. The original entry is displayed in this variable as entry begins.</source>
-        <translation type="unfinished">包含玩家输入数值的变更。该输入开始时，原始登录显示于该变量中。</translation>
+        <translation>指定存储玩家输入数值的变量。输入开始时，原始的项目显示在变量中。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation type="unfinished">变量</translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Number of digits to be entered.</source>
-        <translation type="unfinished">要输入的数值的位数。</translation>
+        <translation>要输入的数值的位数。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand301</name>
     <message>
         <source>Can Escape</source>
-        <translation type="unfinished">可逃跑</translation>
+        <translation>可逃跑</translation>
     </message>
     <message>
         <source>Even if the party is defeated, the game does not end, but a branch is created defining [If Lose] handling.</source>
-        <translation type="unfinished">即使队伍被打败，游戏并不结束，而是创建分支定义 [若战败] 处理。</translation>
+        <translation>即使队伍全灭，也不会导致游戏结束，而是创建分支定义战败的处理。</translation>
     </message>
     <message>
         <source>Can Lose</source>
-        <translation type="unfinished">可失败</translation>
+        <translation>可失败</translation>
     </message>
     <message>
         <source>Enables the [Escape] command and creates a branch defining [If Escape] handling.</source>
-        <translation type="unfinished">启用 [逃跑] 指令并创建分支定义 [若逃跑] 处理。</translation>
+        <translation>启用［逃跑］指令并创建分支定义逃跑的处理。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand117</name>
     <message>
         <source>Common Event</source>
-        <translation type="unfinished">公共事件</translation>
+        <translation>公共事件</translation>
     </message>
     <message>
         <source>Common event to call up.</source>
-        <translation type="unfinished">要调用的公共事件。</translation>
+        <translation>要调用的公共事件。</translation>
     </message>
 </context>
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>Hide Others</source>
-        <translation type="unfinished">隐藏其他</translation>
+        <translation>隐藏其他</translation>
     </message>
     <message>
         <source>Quit %1</source>
-        <translation type="unfinished">退出 %1</translation>
+        <translation>退出 %1</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="unfinished">关于 %1</translation>
+        <translation>关于 %1</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation type="unfinished">首选项...</translation>
+        <translation>首选项...</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation type="unfinished">服务</translation>
+        <translation>服务</translation>
     </message>
     <message>
         <source>Hide %1</source>
-        <translation type="unfinished">隐藏 %1</translation>
+        <translation>隐藏 %1</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished">显示全部</translation>
+        <translation>显示全部</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand27</name>
     <message>
         <source>Switch to be turned ON.</source>
-        <translation type="unfinished">要设为ON的开关。</translation>
+        <translation>要设为ON的开关。</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="unfinished">开关</translation>
+        <translation>开关</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand42</name>
     <message>
         <source>Opacity level of the character.</source>
-        <translation type="unfinished">人物不透明度水平。</translation>
+        <translation>人物的不透明度。</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Location</name>
     <message>
         <source>Location</source>
-        <translation type="unfinished">位置</translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
     <name>EventCommand355</name>
     <message>
         <source>Script</source>
-        <translation type="unfinished">脚本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation type="unfinished">要评估的 JavaScript 代码。</translation>
+        <translation>要运行的JavaScript代码。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand45</name>
     <message>
         <source>Script</source>
-        <translation type="unfinished">脚本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation type="unfinished">要评估的 JavaScript 代码。</translation>
+        <translation>要运行的JavaScript代码。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand223</name>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation type="unfinished">指定改变颜色的方式。</translation>
+        <translation>指定改变颜色的方式。</translation>
     </message>
     <message>
         <source>Color Tone</source>
-        <translation type="unfinished">色调</translation>
+        <translation>色调</translation>
     </message>
 </context>
 <context>
     <name>EventCommand234</name>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation type="unfinished">指定改变颜色的方式。</translation>
+        <translation>指定改变颜色的方式。</translation>
     </message>
     <message>
         <source>Color Tone</source>
-        <translation type="unfinished">色调</translation>
+        <translation>色调</translation>
     </message>
     <message>
         <source>Picture to tint.</source>
-        <translation type="unfinished">要着色的图片。</translation>
+        <translation>要改变色调的图片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand127</name>
     <message>
         <source>Weapon</source>
-        <translation type="unfinished">武器</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Weapon to increase or decrease.</source>
-        <translation type="unfinished">要增加或减少的武器。</translation>
+        <translation>要增加或减少的武器。</translation>
     </message>
 </context>
 <context>
     <name>Group_ParameterChanges</name>
     <message>
         <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
-        <translation type="unfinished">设定通过装备该道具，角色的能力值将增加的量。</translation>
+        <translation>设定通过装备该道具，角色的能力值将如何变化。</translation>
     </message>
     <message>
         <source>Parameter Changes</source>
@@ -12715,144 +12715,144 @@ the Guard command.</source>
     <name>EventCommand202</name>
     <message>
         <source>Vehicle to change the location.</source>
-        <translation type="unfinished">要更改位置的交通工具。</translation>
+        <translation>要更改位置的交通工具。</translation>
     </message>
     <message>
         <source>Vehicle</source>
-        <translation type="unfinished">交通工具</translation>
+        <translation>交通工具</translation>
     </message>
 </context>
 <context>
     <name>EventCommand111</name>
     <message>
         <source>Create Else Branch</source>
-        <translation type="unfinished">创建其他分支</translation>
+        <translation>创建不满足条件时的分支</translation>
     </message>
     <message>
         <source>Also creates a branch for when the condition is not met.</source>
-        <translation type="unfinished">当条件未满足时也创建一个分支。</translation>
+        <translation>当设定的条件未满足时创建一个分支。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_TextPreview</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">预览</translation>
+        <translation>预览</translation>
     </message>
 </context>
 <context>
     <name>Dialog_WindowColor</name>
     <message>
         <source>Specifies how to change the window color.</source>
-        <translation type="unfinished">指定改变窗口颜色的方式。</translation>
+        <translation>指定改变窗口颜色的方式。</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation type="unfinished">窗口颜色</translation>
+        <translation>窗口颜色</translation>
     </message>
 </context>
 <context>
     <name>EventCommand138</name>
     <message>
         <source>Specifies how to change the window color.</source>
-        <translation type="unfinished">指定改变窗口颜色的方式。</translation>
+        <translation>指定改变窗口颜色的方式。</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation type="unfinished">窗口颜色</translation>
+        <translation>窗口颜色</translation>
     </message>
 </context>
 <context>
     <name>EventCommand284</name>
     <message>
         <source>Parallax background settings to change to.</source>
-        <translation type="unfinished">要更换到的远景图设置。</translation>
+        <translation>将远景图设定为该项。</translation>
     </message>
     <message>
         <source>Parallax Background</source>
-        <translation type="unfinished">远景图</translation>
+        <translation>远景图</translation>
     </message>
 </context>
 <context>
     <name>EventCommand230</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation type="unfinished">帧的等待持续时间。</translation>
+        <translation>以帧为单位指定等待时间。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand15</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation type="unfinished">帧的等待持续时间。</translation>
+        <translation>以帧为单位指定等待时间。</translation>
     </message>
 </context>
 <context>
     <name>TroopScreen</name>
     <message>
         <source>Appear Halfway</source>
-        <translation type="unfinished">半途出现</translation>
+        <translation>半途出现</translation>
     </message>
 </context>
 <context>
     <name>Dialog_About</name>
     <message>
         <source>About %1</source>
-        <translation type="unfinished">关于 %1</translation>
+        <translation>关于 %1</translation>
     </message>
 </context>
 <context>
     <name>EventCommand356</name>
     <message>
         <source>Command to be executed by plugins.</source>
-        <translation type="unfinished">由插件执行的指令。</translation>
+        <translation>由插件执行的指令。</translation>
     </message>
     <message>
         <source>Plugin Command</source>
-        <translation type="unfinished">插件指令</translation>
+        <translation>插件指令</translation>
     </message>
 </context>
 <context>
     <name>EventCommand235</name>
     <message>
         <source>Picture to erase.</source>
-        <translation type="unfinished">要擦除的图片。</translation>
+        <translation>要移除的图片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand232</name>
     <message>
         <source>Picture to move or change properties.</source>
-        <translation type="unfinished">要移动或更改属性的图片。</translation>
+        <translation>要更改位置或设定的图片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand108</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">说明</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <source>Comment text. Has no effect in the game.</source>
-        <translation type="unfinished">说明文字。在游戏中无效果。</translation>
+        <translation>输入注释文字。在游戏中无效果。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand118</name>
     <message>
         <source>Name of the label to be set.</source>
-        <translation type="unfinished">要设置的标签的名称。</translation>
+        <translation>要设置的标签的名称。</translation>
     </message>
     <message>
         <source>Label Name</source>
-        <translation type="unfinished">标签名称</translation>
+        <translation>标签名称</translation>
     </message>
 </context>
 <context>
     <name>EventCommand231</name>
     <message>
         <source>Picture to show.</source>
-        <translation type="unfinished">要显示的图片。</translation>
+        <translation>要显示的图片。</translation>
     </message>
 </context>
 <context>
@@ -12863,7 +12863,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Tileset to change to.</source>
-        <translation type="unfinished">要更换到的图块。</translation>
+        <translation>将图块组更改为该项。</translation>
     </message>
 </context>
 <context>
@@ -12877,36 +12877,36 @@ the Guard command.</source>
     <name>EventCommand119</name>
     <message>
         <source>Label Name</source>
-        <translation type="unfinished">标签名称</translation>
+        <translation>标签名称</translation>
     </message>
     <message>
         <source>Label name of the jump destination.</source>
-        <translation type="unfinished">跳转目标的卷标名称。</translation>
+        <translation>跳转的目标标签的名称。</translation>
     </message>
 </context>
 <context>
     <name>Layout_StateMessage</name>
     <message>
         <source>(Target Name)</source>
-        <translation type="unfinished">（目标名称）</translation>
+        <translation>（目标名称）</translation>
     </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
     <message>
         <source>Cannot create any more maps.</source>
-        <translation type="unfinished">不能创建任何更多地图。</translation>
+        <translation>不能创建更多地图。</translation>
     </message>
     <message>
         <source>Delete %1?</source>
-        <translation type="unfinished">删除 %1？</translation>
+        <translation>删除 %1 吗？</translation>
     </message>
 </context>
 <context>
     <name>EventCommand335</name>
     <message>
         <source>Enemy to appear.</source>
-        <translation type="unfinished">要出现的敌人。</translation>
+        <translation>要出现的敌人。</translation>
     </message>
 </context>
 </TS>
