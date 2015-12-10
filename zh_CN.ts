@@ -224,7 +224,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation>决定</translation>
     </message>
     <message>
         <source>ON</source>
@@ -1197,7 +1197,7 @@
     </message>
     <message>
         <source>Region ID</source>
-        <translation>地区ID</translation>
+        <translation>区域ID</translation>
     </message>
     <message>
         <source>Dual Wield</source>
@@ -3848,7 +3848,7 @@ the Guard command.</source>
     <name>Group_SystemSounds</name>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation>决定</translation>
     </message>
     <message>
         <source>Load</source>
@@ -5638,7 +5638,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Creates a distribution package.</source>
-        <translation>创建发布用的包。</translation>
+        <translation>创建发布用软件包。</translation>
     </message>
     <message>
         <source>Creates a new event.</source>
@@ -6850,7 +6850,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Max Frames</source>
-        <translation>帧数</translation>
+        <translation>最大帧数</translation>
     </message>
     <message>
         <source>Images</source>
@@ -7136,7 +7136,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Action Button</source>
-        <translation>操作按钮</translation>
+        <translation>决定键</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
@@ -8177,7 +8177,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>倒下的行走图</translation>
+        <translation>倒下行走图</translation>
     </message>
     <message>
         <source>Load settings</source>
@@ -10101,113 +10101,113 @@ the Guard command.</source>
     </message>
     <message>
         <source>Battle character to be forced the action.</source>
-        <translation type="unfinished">强制战斗角色选择行动。</translation>
+        <translation>要强制行动的战斗角色。</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished">主题</translation>
+        <translation>行动主体</translation>
     </message>
     <message>
         <source>Forces the action of the specified enemy.</source>
-        <translation type="unfinished">强制指定敌人的动作。</translation>
+        <translation>强制指定敌人的行动。</translation>
     </message>
     <message>
         <source>Forces the action of the specified actor.</source>
-        <translation type="unfinished">强制指定角色的动作。</translation>
+        <translation>强制指定角色的行动。</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBSystem</name>
     <message>
         <source>Title Screen</source>
-        <translation type="unfinished">标题画面</translation>
+        <translation>标题画面</translation>
     </message>
     <message>
         <source>Background color of windows used in the game.</source>
-        <translation type="unfinished">游戏中使用的窗口背景颜色。</translation>
+        <translation>游戏中使用的窗口背景颜色。</translation>
     </message>
     <message>
         <source>Screen to display at game startup.</source>
-        <translation type="unfinished">游戏启动时显示屏。</translation>
+        <translation>游戏启动时显示的画面的设定。</translation>
     </message>
     <message>
         <source>Title of the game.</source>
-        <translation type="unfinished">游戏的名称。</translation>
+        <translation>游戏的标题。</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Game Title</source>
-        <translation type="unfinished">游戏名称</translation>
+        <translation>游戏标题</translation>
     </message>
     <message>
         <source>Image of the %1.</source>
-        <translation type="unfinished">%1 的图像。</translation>
+        <translation>%1的图像。</translation>
     </message>
     <message>
         <source>Unit of currency in the game world.</source>
-        <translation type="unfinished">游戏世界中的货币单位。</translation>
+        <translation>游戏世界中的货币单位。</translation>
     </message>
     <message>
         <source>Images of the vehicles to be displayed on the map screen.</source>
-        <translation type="unfinished">显示在地图画面的交通工具图像。</translation>
+        <translation>显示在地图画面上的交通工具的图像。</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished">货币</translation>
+        <translation>货币单位</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation type="unfinished">窗口颜色</translation>
+        <translation>窗口颜色</translation>
     </message>
     <message>
         <source>Draws the game title string on the title screen. Uncheck this option if you want to use your own title logo.</source>
-        <translation type="unfinished">绘制标题画面的游戏标题字符串。若要使用你自己的标题 logo，请取消勾选此选项。</translation>
+        <translation>在标题画面绘制的游戏标题字符串。若要使用你自己的标题Logo，请取消勾选此选项。</translation>
     </message>
     <message>
         <source>Vehicle Images</source>
-        <translation type="unfinished">交通工具图像</translation>
+        <translation>交通工具图像</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation type="unfinished">在标题画面显示的背景和边框图像。</translation>
+        <translation>设定标题画面显示的背景和边框图像。</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
-        <translation type="unfinished">绘制游戏标题</translation>
+        <translation>绘制游戏标题</translation>
     </message>
 </context>
 <context>
     <name>Group_TilesetImages</name>
     <message>
         <source>Buildings</source>
-        <translation type="unfinished">建筑</translation>
+        <translation>建筑</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Tileset image for the tab %1.</source>
-        <translation type="unfinished">卷标 %1 的图块图像。</translation>
+        <translation>分页%1的图块组图像。</translation>
     </message>
     <message>
         <source>Walls</source>
-        <translation type="unfinished">墙壁</translation>
+        <translation>墙壁</translation>
     </message>
     <message>
         <source>Ground</source>
-        <translation type="unfinished">地面</translation>
+        <translation>地面</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">标准</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <source>Images to be used in this tileset.</source>
@@ -10218,11 +10218,11 @@ the Guard command.</source>
     <name>Dialog_Copying</name>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished">正在复制文件...</translation>
+        <translation>正在复制文件...</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished">新建工程</translation>
+        <translation>新建工程</translation>
     </message>
 </context>
 <context>
@@ -10233,905 +10233,905 @@ the Guard command.</source>
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished">道具</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Terms</source>
-        <translation type="unfinished">术语</translation>
+        <translation>用语</translation>
     </message>
     <message>
         <source>Types</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Basic configuration of the entire game.</source>
-        <translation type="unfinished">整个游戏的基本配置。</translation>
+        <translation>整个游戏的基本配置。</translation>
     </message>
     <message>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation type="unfinished">敌人群组资料。出现在游戏中的单位。</translation>
+        <translation>敌人的群组资料。在游戏中登场的单位。</translation>
     </message>
     <message>
         <source>Data influencing character status in various ways.</source>
-        <translation type="unfinished">影响人物状态的各种数据。</translation>
+        <translation>影响人物状态的各种数据。</translation>
     </message>
     <message>
         <source>Data for actions that produce special effects by consuming MP or TP.</source>
-        <translation type="unfinished">通过消耗 MP 或 TP 产生特殊效果的动作的数据。</translation>
+        <translation>通过消耗MP或TP产生特殊效果的行动的数据。</translation>
     </message>
     <message>
         <source>Animations</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
-        <translation type="unfinished">元素、技能类型、武器类型、防具类型和装备类型名称。</translation>
+        <translation>元素、技能类型、武器类型、防具类型和装备类型的名称。</translation>
     </message>
     <message>
         <source>Actors</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Armors</source>
-        <translation type="unfinished">防具</translation>
+        <translation>防具</translation>
     </message>
     <message>
         <source>Skills</source>
-        <translation type="unfinished">技能</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>States</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished">系统</translation>
+        <translation>系统</translation>
     </message>
     <message>
         <source>Troops</source>
-        <translation type="unfinished">敌群</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <source>Data for commonly used events.</source>
-        <translation type="unfinished">使用于公共事件的数据。</translation>
+        <translation>通用使用的事件的数据。</translation>
     </message>
     <message>
         <source>Data used for various visual effects.</source>
-        <translation type="unfinished">用于各种视觉效果的数据。</translation>
+        <translation>用于各种视觉效果的数据。</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation type="unfinished">数据库</translation>
+        <translation>数据库</translation>
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation type="unfinished">主要增加防御力的防具道具的数据。</translation>
+        <translation>主要增加防御力的防具道具的数据。</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="unfinished">职业</translation>
+        <translation>职业</translation>
     </message>
     <message>
         <source>Data defining the behavior of tilesets for maps.</source>
-        <translation type="unfinished">定义地图图块组行为的数据。</translation>
+        <translation>定义地图用的图块组的行为的数据。</translation>
     </message>
     <message>
         <source>Data for enemies fought in battles.</source>
-        <translation type="unfinished">在战斗中战斗的敌人的资料。</translation>
+        <translation>在战斗中战斗的对手的数据。</translation>
     </message>
     <message>
         <source>Enemies</source>
-        <translation type="unfinished">敌人</translation>
+        <translation>敌人</translation>
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation type="unfinished">主要增加攻击力的武器道具的数据。</translation>
+        <translation>主要增加攻击力的武器道具的数据。</translation>
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation type="unfinished">非装备道具的资料，如恢复和事件道具。</translation>
+        <translation>非装备道具的数据，如恢复药和事件道具。</translation>
     </message>
     <message>
         <source>Weapons</source>
-        <translation type="unfinished">武器</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Text data such as command and parameter names.</source>
-        <translation type="unfinished">文字数据，如指令和参数名称等。</translation>
+        <translation>文字数据，如指令和参数名称等。</translation>
     </message>
     <message>
         <source>Data that determines roles of actors within the party.</source>
-        <translation type="unfinished">决定角色在该队伍中的角色数据。</translation>
+        <translation>决定角色在队伍中角色定位的数据。</translation>
     </message>
     <message>
         <source>Common Events</source>
-        <translation type="unfinished">公共事件</translation>
+        <translation>公共事件</translation>
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation type="unfinished">玩家控制的队伍成员的数据。</translation>
+        <translation>游戏中玩家控制的队伍成员的数据。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand285</name>
     <message>
         <source>Variable for storing information that was obtained.</source>
-        <translation type="unfinished">存取获得的信息的变量。</translation>
+        <translation>存储获得的信息的变量。</translation>
     </message>
     <message>
         <source>Type of information to obtain.</source>
-        <translation type="unfinished">要获取的信息的类型。</translation>
+        <translation>要获取的信息的类型。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation type="unfinished">变量</translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Location of information to obtain.</source>
-        <translation type="unfinished">要获取的信息的位置。</translation>
+        <translation>设定要获取的信息的位置。</translation>
     </message>
     <message>
         <source>Info Type</source>
-        <translation type="unfinished">信息类型</translation>
+        <translation>信息类型</translation>
     </message>
 </context>
 <context>
     <name>EventCommand212</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Character to be the target.</source>
-        <translation type="unfinished">要成为目标的人物。</translation>
+        <translation>要成为目标的人物。</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation type="unfinished">等待效果完成。</translation>
+        <translation>等待效果完成。</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished">人物</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Type of animation to be displayed.</source>
-        <translation type="unfinished">要显示的动画的类型。</translation>
+        <translation>要显示的动画的类型。</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation type="unfinished">等待完成</translation>
+        <translation>等待完成</translation>
     </message>
 </context>
 <context>
     <name>EventCommand337</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Enemy to be the target.</source>
-        <translation type="unfinished">要成为目标的敌人。</translation>
+        <translation>要成为目标的敌人。</translation>
     </message>
     <message>
         <source>Type of animation to be displayed.</source>
-        <translation type="unfinished">要显示的动画的类型。</translation>
+        <translation>要显示的动画的类型。</translation>
     </message>
 </context>
 <context>
     <name>Group_Invocation</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">速度修正</translation>
+        <translation>速度修正</translation>
     </message>
     <message>
         <source>Hit Type</source>
-        <translation type="unfinished">命中类型</translation>
+        <translation>命中类型</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation type="unfinished">普通攻击</translation>
+        <translation>普通攻击</translation>
     </message>
     <message>
         <source>Magical Attack</source>
-        <translation type="unfinished">魔法攻击</translation>
+        <translation>魔法攻击</translation>
     </message>
     <message>
         <source>Animation displayed for the target when using the action in battle.</source>
-        <translation type="unfinished">当在战斗中使用动作时在目标身上显示的动画。</translation>
+        <translation>在战斗中使用该行动时在目标身上显示的动画。</translation>
     </message>
     <message>
         <source>Physical Attack</source>
-        <translation type="unfinished">物理攻击</translation>
+        <translation>物理攻击</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished">连续次数</translation>
+        <translation>连续次数</translation>
     </message>
     <message>
         <source>Invocation</source>
-        <translation type="unfinished">发动</translation>
+        <translation>发动</translation>
     </message>
     <message>
         <source>Amount of TP the user gains per hit.</source>
-        <translation type="unfinished">使用者每次命中获得的 TP 量。</translation>
+        <translation>使用者每次命中获得的TP量。</translation>
     </message>
     <message>
         <source>Certain Hit</source>
-        <translation type="unfinished">必中</translation>
+        <translation>必中</translation>
     </message>
     <message>
         <source>TP Gain</source>
-        <translation type="unfinished">获得TP</translation>
+        <translation>获得TP</translation>
     </message>
     <message>
         <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
-        <translation type="unfinished">命中判定的方法。&lt;br&gt;[必中] 将行动的成功时刻视为命中。&lt;br&gt;[物理攻击] 基于用户的命中率和目标的闪避率确定命中。&lt;br&gt;[魔法攻击] 基于目标的魔法闪避率确定命中。</translation>
+        <translation>命中判定的方法。&lt;br&gt;【必中】将行动的成功时刻视为命中。&lt;br&gt;【物理攻击】基于使用者的命中率和目标的闪避率进行判定。&lt;br&gt;【魔法攻击】基于目标的魔法闪避率进行判定。</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">成功率</translation>
+        <translation>成功率</translation>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
-        <translation type="unfinished">与行动发动相关的设定。</translation>
+        <translation>与行动发动相关的设定。</translation>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
-        <translation type="unfinished">效果应用于目标的次数。</translation>
+        <translation>效果应用于目标的次数。</translation>
     </message>
     <message>
         <source>Probability that the use of the action succeeds.</source>
-        <translation type="unfinished">行动成功的机率。</translation>
+        <translation>行动成功的机率。</translation>
     </message>
     <message>
         <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
-        <translation type="unfinished">在确定行动顺序时与人物的敏捷性相加计算的值。通过这个设定，可以表现效果强大却发动速度慢的行动。</translation>
+        <translation>在确定行动顺序时与人物的敏捷性相加计算的值。通过这个设定，可以表现「效果强大却发动缓慢的技能或道具」。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_BattleTest</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished">等级</translation>
+        <translation>等级</translation>
     </message>
     <message>
         <source>Level of the actor.</source>
-        <translation type="unfinished">角色等级。</translation>
+        <translation>角色的等级。</translation>
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation type="unfinished">战斗测试中角色装备的武器和防具。</translation>
+        <translation>战斗测试中角色装备的武器和防具。</translation>
     </message>
     <message>
         <source>Battle Test</source>
-        <translation type="unfinished">战斗测试</translation>
+        <translation>战斗测试</translation>
     </message>
     <message>
         <source>Actor to use in the battle test.</source>
-        <translation type="unfinished">要在战斗测试中使用的角色。</translation>
+        <translation>参加战斗测试的角色。</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Initializes the actor&apos;s level and equipment.</source>
-        <translation type="unfinished">初始化角色等级和装备。</translation>
+        <translation>初始化角色等级和装备。</translation>
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation type="unfinished">基于等级和装备显示状态计算。</translation>
+        <translation>基于等级和装备显示状态的计算结果。</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation type="unfinished">初始化</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <source>Equipment</source>
-        <translation type="unfinished">装备</translation>
+        <translation>装备</translation>
     </message>
 </context>
 <context>
     <name>Dialog_StartingParty</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor in the starting party.</source>
-        <translation type="unfinished">队伍的角色。</translation>
+        <translation>初始队伍中包含的角色。</translation>
     </message>
     <message>
         <source>Starting Party</source>
-        <translation type="unfinished">起始队伍</translation>
+        <translation>初始队伍</translation>
     </message>
 </context>
 <context>
     <name>EventCommand303</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Max characters</source>
-        <translation type="unfinished">最大字符</translation>
+        <translation>最大字符数</translation>
     </message>
     <message>
         <source>Actor to input the name.</source>
-        <translation type="unfinished">要输入名称的角色。</translation>
+        <translation>要输入名称的角色。</translation>
     </message>
     <message>
         <source>Maximum number of characters for name input.</source>
-        <translation type="unfinished">名称输入最大字符数。</translation>
+        <translation>输入名称的最大字符数的限制。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand319</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Type of the equipment to be changed.</source>
-        <translation type="unfinished">要更改的装备的类型。</translation>
+        <translation>要更改的装备的类型。</translation>
     </message>
     <message>
         <source>Actor to change the equipment.</source>
-        <translation type="unfinished">要更改装备的角色。</translation>
+        <translation>要更改装备的角色。</translation>
     </message>
     <message>
         <source>Equipment Item</source>
-        <translation type="unfinished">装备道具</translation>
+        <translation>装备品</translation>
     </message>
     <message>
         <source>Equipment Type</source>
-        <translation type="unfinished">装备类型</translation>
+        <translation>装备类型</translation>
     </message>
     <message>
         <source>Item to be newly equipped. The party must have the specified item.</source>
-        <translation type="unfinished">要新装备的道具。队伍必须有指定道具。</translation>
+        <translation>新装备的道具。队伍必须持有指定道具。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand321</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">职业</translation>
+        <translation>职业</translation>
     </message>
     <message>
         <source>Actor to change the class.</source>
-        <translation type="unfinished">要更改职业的角色。</translation>
+        <translation>要更改职业的角色。</translation>
     </message>
     <message>
         <source>New class of the actor.</source>
-        <translation type="unfinished">角色的新职业。</translation>
+        <translation>角色的新职业。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand322</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation type="unfinished">在游戏中显示的角色图像。</translation>
+        <translation>在游戏中显示的角色的图像。</translation>
     </message>
     <message>
         <source>Actor to change the images.</source>
-        <translation type="unfinished">要更改图像的角色。</translation>
+        <translation>要更改图像的角色。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand324</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the nickname.</source>
-        <translation type="unfinished">要更改昵称的角色。</translation>
+        <translation>要更改昵称的角色。</translation>
     </message>
     <message>
         <source>New nickname of the actor.</source>
-        <translation type="unfinished">角色的新昵称。</translation>
+        <translation>角色的新昵称。</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">昵称</translation>
+        <translation>昵称</translation>
     </message>
 </context>
 <context>
     <name>EventCommand325</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the profile.</source>
-        <translation type="unfinished">要更改简介的角色。</translation>
+        <translation>要更改简介的角色。</translation>
     </message>
     <message>
         <source>New profile of the actor.</source>
-        <translation type="unfinished">角色的新简介。</translation>
+        <translation>角色的新简介。</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished">简介</translation>
+        <translation>简介</translation>
     </message>
 </context>
 <context>
     <name>Group_StartingParty</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Party members at the start of the game.</source>
-        <translation type="unfinished">游戏开始时的队伍成员。</translation>
+        <translation>游戏开始时的队伍成员。</translation>
     </message>
     <message>
         <source>Starting Party</source>
-        <translation type="unfinished">起始队伍</translation>
+        <translation>初始队伍</translation>
     </message>
 </context>
 <context>
     <name>Group_TargetBattler</name>
     <message>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Enemy</source>
-        <translation type="unfinished">敌人</translation>
+        <translation>敌人</translation>
     </message>
 </context>
 <context>
     <name>Dialog_EquipmentItem</name>
     <message>
         <source>Armor</source>
-        <translation type="unfinished">防具</translation>
+        <translation>防具</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation type="unfinished">武器</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Item for this type of equipment.</source>
-        <translation type="unfinished">该类型装备的道具。</translation>
+        <translation>该类型装备的道具。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand128</name>
     <message>
         <source>Armor</source>
-        <translation type="unfinished">防具</translation>
+        <translation>防具</translation>
     </message>
     <message>
         <source>Armor to increase or decrease.</source>
-        <translation type="unfinished">要增加或减少的防具。</translation>
+        <translation>要增加或减少的防具。</translation>
     </message>
 </context>
 <context>
     <name>Group_PictureBlend</name>
     <message>
         <source>Blend</source>
-        <translation type="unfinished">混合</translation>
+        <translation>合成</translation>
     </message>
     <message>
         <source>Opacity level of the picture.</source>
-        <translation type="unfinished">图片不透明度水平。</translation>
+        <translation>图片的不透明度。</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation type="unfinished">合成方法</translation>
+        <translation>合成方法</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <source>Settings related to the mixing of the screen and the image.</source>
-        <translation type="unfinished">与屏幕和图像混合相关的设置。</translation>
+        <translation>关于画面和图像的合成的设定。</translation>
     </message>
     <message>
         <source>Blend mode used when the picture is drawn.</source>
-        <translation type="unfinished">绘制图片时使用的合成方法。</translation>
+        <translation>绘制图片时使用的合成方法。</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationRange</name>
     <message>
         <source>Cells</source>
-        <translation type="unfinished">动画格</translation>
+        <translation>动画格</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <source>Range of the frame numbers.</source>
-        <translation type="unfinished">帧编号范围。</translation>
+        <translation>帧编号的范围。</translation>
     </message>
     <message>
         <source>Range of the cell numbers.</source>
-        <translation type="unfinished">动画格编号范围。</translation>
+        <translation>动画格编号的范围。</translation>
     </message>
     <message>
         <source>Frames</source>
-        <translation type="unfinished">帧</translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>Range to apply this operation.</source>
-        <translation type="unfinished">应用该操作的范围。</translation>
+        <translation>应用该操作的范围。</translation>
     </message>
 </context>
 <context>
     <name>CharacterGenerator</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Walk Character</source>
-        <translation type="unfinished">行走图</translation>
+        <translation>行走图</translation>
     </message>
     <message>
         <source>Randomize</source>
-        <translation type="unfinished">随机</translation>
+        <translation>随机生成</translation>
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
-        <translation type="unfinished">开启受伤害角色的导出窗口。</translation>
+        <translation>开启倒下行走图的导出窗口。</translation>
     </message>
     <message>
         <source>Save Settings</source>
-        <translation type="unfinished">保存设定</translation>
+        <translation>保存设定</translation>
     </message>
     <message>
         <source>Selects a variation.</source>
-        <translation type="unfinished">选择变化。</translation>
+        <translation>选择变化。</translation>
     </message>
     <message>
         <source>Selects a kind of parts.</source>
-        <translation type="unfinished">选择一种部位。</translation>
+        <translation>选择部位的类型。</translation>
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
-        <translation type="unfinished">开启行走图的导出窗口。</translation>
+        <translation>开启行走图的导出窗口。</translation>
     </message>
     <message>
         <source>Face Image</source>
-        <translation type="unfinished">头像图像</translation>
+        <translation>头像图像</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">预览</translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Battler</source>
-        <translation type="unfinished">战斗图</translation>
+        <translation>战斗图</translation>
     </message>
     <message>
         <source>Variation</source>
-        <translation type="unfinished">变化</translation>
+        <translation>变化</translation>
     </message>
     <message>
         <source>Previews the generated images.</source>
-        <translation type="unfinished">预览生成的图像。</translation>
+        <translation>预览生成的图像。</translation>
     </message>
     <message>
         <source>Saves the current settings.</source>
-        <translation type="unfinished">保存目前设定。</translation>
+        <translation>保存目前设定。</translation>
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
-        <translation type="unfinished">开启侧视战斗图的导出窗口。</translation>
+        <translation>开启侧视战斗图的导出窗口。</translation>
     </message>
     <message>
         <source>Parts List</source>
-        <translation type="unfinished">部位列表</translation>
+        <translation>部位列表</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
-        <translation type="unfinished">随机选择所有部位。</translation>
+        <translation>随机设定所有部位。</translation>
     </message>
     <message>
         <source>Opens the export window for face images.</source>
-        <translation type="unfinished">开启头像图像的导出窗口。</translation>
+        <translation>开启头像图像的导出窗口。</translation>
     </message>
     <message>
         <source>Selects a color.</source>
-        <translation type="unfinished">选择颜色。</translation>
+        <translation>选择颜色。</translation>
     </message>
     <message>
         <source>Loads the saved settings.</source>
-        <translation type="unfinished">读取保存设定。</translation>
+        <translation>读取保存的设定。</translation>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation type="unfinished">受伤害角色</translation>
+        <translation>倒下行走图</translation>
     </message>
     <message>
         <source>Load Settings</source>
-        <translation type="unfinished">读取设定</translation>
+        <translation>读取设定</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch3</name>
     <message>
         <source>Enemy</source>
-        <translation type="unfinished">敌人</translation>
+        <translation>敌人</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>is driven</source>
-        <translation type="unfinished">被驾驶</translation>
+        <translation>被乘坐</translation>
     </message>
     <message>
         <source>is facing</source>
-        <translation type="unfinished">朝向</translation>
+        <translation>朝向</translation>
     </message>
     <message>
         <source>Based on the specified enemy.</source>
-        <translation type="unfinished">基于指定敌人。</translation>
+        <translation>基于指定敌人。</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation type="unfinished">基于指定敌人是否有特定状态。</translation>
+        <translation>基于指定敌人是否有特定状态。</translation>
     </message>
     <message>
         <source>Appeared</source>
-        <translation type="unfinished">出现</translation>
+        <translation>出现</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished">人物</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Based on the direction the player or event is facing.</source>
-        <translation type="unfinished">基于玩家或事件面对的方向。</translation>
+        <translation>基于玩家或事件面对的方向。</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
-        <translation type="unfinished">基于指定敌人是否参与战斗。</translation>
+        <translation>基于指定敌人是否参与战斗。</translation>
     </message>
     <message>
         <source>Based on whether or not the party is riding in the specified vehicle.</source>
-        <translation type="unfinished">基于队伍是否在乘坐指定交通工具。</translation>
+        <translation>基于队伍是否在乘坐指定交通工具。</translation>
     </message>
     <message>
         <source>Vehicle</source>
-        <translation type="unfinished">交通工具</translation>
+        <translation>交通工具</translation>
     </message>
 </context>
 <context>
     <name>TargetEnemyBox</name>
     <message>
         <source>Enemy</source>
-        <translation type="unfinished">敌人</translation>
+        <translation>敌人</translation>
     </message>
     <message>
         <source>Enemy to change the status.</source>
-        <translation type="unfinished">要更改状态的敌人。</translation>
+        <translation>要更改状态的敌人。</translation>
     </message>
 </context>
 <context>
     <name>ObjIconImageBox</name>
     <message>
         <source>Icon Index</source>
-        <translation type="unfinished">图标索引</translation>
+        <translation>图标编号</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation type="unfinished">所选图标的索引号。</translation>
+        <translation>所选图标的索引编号。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand203</name>
     <message>
         <source>Event</source>
-        <translation type="unfinished">事件</translation>
+        <translation>事件</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation type="unfinished">移动后人物的方向。</translation>
+        <translation>移动后人物的方向。</translation>
     </message>
     <message>
         <source>Event character to change the location.</source>
-        <translation type="unfinished">要更改位置的事件人物。</translation>
+        <translation>要更改位置的事件。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AttackMotion</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Motion</source>
-        <translation type="unfinished">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <source>Image for this weapon.</source>
-        <translation type="unfinished">该武器的图像。</translation>
+        <translation>该武器的图像。</translation>
     </message>
     <message>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation type="unfinished">当角色使用该武器攻击时显示的动作类型。</translation>
+        <translation>当角色使用该武器攻击时显示的动作类型。</translation>
     </message>
     <message>
         <source>Attack Motion</source>
-        <translation type="unfinished">攻击动作</translation>
+        <translation>攻击动作</translation>
     </message>
 </context>
 <context>
     <name>EventCommand323</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Vehicle to change the image.</source>
-        <translation type="unfinished">要更改图像的交通工具。</translation>
+        <translation>要更改图像的交通工具。</translation>
     </message>
     <message>
         <source>Vehicle</source>
-        <translation type="unfinished">交通工具</translation>
+        <translation>交通工具</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation type="unfinished">显示在地图画面的图像。</translation>
+        <translation>显示在地图画面的图像。</translation>
     </message>
 </context>
 <context>
     <name>Group_Picture</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">数目</translation>
+        <translation>编号</translation>
     </message>
     <message>
         <source>Image of the picture to be displayed.</source>
-        <translation type="unfinished">要显示的图片图像。</translation>
+        <translation>要显示的图片图像。</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Control number of the picture. The larger number, the higher priority.</source>
-        <translation type="unfinished">控制图片编号。编号越大，优先级越高。</translation>
+        <translation>图片的管理编号。编号越大，优先级越高。</translation>
     </message>
 </context>
 <context>
     <name>Layout_ParallaxBack</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
-        <translation type="unfinished">横向循环远景图。</translation>
+        <translation>横向循环远景图。</translation>
     </message>
     <message>
         <source>Loops the parallax background vertically.</source>
-        <translation type="unfinished">纵向循环远景图。</translation>
+        <translation>纵向循环远景图。</translation>
     </message>
     <message>
         <source>Automatically performs vertical scrolling at the specified speed.</source>
-        <translation type="unfinished">以指定速度自动执行纵向滚动。</translation>
+        <translation>以指定速度自动执行纵向滚动。</translation>
     </message>
     <message>
         <source>Automatically performs horizontal scrolling at the specified speed.</source>
-        <translation type="unfinished">以指定速度自动执行横向滚动。</translation>
+        <translation>以指定速度自动执行横向滚动。</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation type="unfinished">滚动</translation>
+        <translation>滚动</translation>
     </message>
     <message>
         <source>Image of the parallax background.</source>
-        <translation type="unfinished">远景图图像。</translation>
+        <translation>远景图图像。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand41</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation type="unfinished">显示在地图画面的图像。</translation>
+        <translation>显示在地图画面的图像。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand318</name>
     <message>
         <source>Learn</source>
-        <translation type="unfinished">学习</translation>
+        <translation>学习</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translation type="unfinished">技能</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Removes the skill from the actor.</source>
-        <translation type="unfinished">移除角色的技能。</translation>
+        <translation>移除角色习得完毕的技能。</translation>
     </message>
     <message>
         <source>Forget</source>
-        <translation type="unfinished">忘记</translation>
+        <translation>忘记</translation>
     </message>
     <message>
         <source>Skill to learn or forget.</source>
-        <translation type="unfinished">要学习或忘记的技能。</translation>
+        <translation>要学习或忘记的技能。</translation>
     </message>
     <message>
         <source>Adds the skill to the actor.</source>
-        <translation type="unfinished">对角色添加技能。</translation>
+        <translation>使角色习得该技能。</translation>
     </message>
     <message>
         <source>Selects whether to learn or forget the skill.</source>
-        <translation type="unfinished">选择是否学习或忘记技能。</translation>
+        <translation>选择学习或忘记技能。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ParameterCurves</name>
     <message>
         <source>Level</source>
-        <translation type="unfinished">等级</translation>
+        <translation>等级</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <source>Quick Setting</source>
-        <translation type="unfinished">快速设置</translation>
+        <translation>快速设置</translation>
     </message>
     <message>
         <source>Press buttons to set parameter values randomly within a predefined range.</source>
-        <translation type="unfinished">预定范围内，按下按钮设定随机能力值。</translation>
+        <translation>按下按钮，在预定范围内随机设定能力值。</translation>
     </message>
     <message>
         <source>Specifies values for level 1 and 99 and the remaining values will be filled in automatically.</source>
-        <translation type="unfinished">指定等级 1 和 99 的值，剩余值将自动填入。</translation>
+        <translation>指定等级1和99的值，中间的设定值将自动补充。</translation>
     </message>
     <message>
         <source>Specifies a level for manual parameter changing.</source>
-        <translation type="unfinished">指定要进行手动能力值更改的等级。</translation>
+        <translation>指定要进行手动能力值设置的等级。</translation>
     </message>
     <message>
         <source>Generate Curve</source>
-        <translation type="unfinished">生成曲线</translation>
+        <translation>生成曲线</translation>
     </message>
     <message>
         <source>Parameter Curves</source>
@@ -11143,957 +11143,957 @@ the Guard command.</source>
     </message>
     <message>
         <source>The X axis is the level number, and the Y axis shows the parameter value at each level. Click to get the parameter value.</source>
-        <translation type="unfinished">X 轴为等级数，Y 轴显示各等级的参数值。点击获得参数值。</translation>
+        <translation>图象的X轴为等级数，Y轴显示各等级的能力值的设定值。点击取得能力值。</translation>
     </message>
     <message>
         <source>Changes the parameter value for the specified level.</source>
-        <translation type="unfinished">更改指定等级的能力值。</translation>
+        <translation>更改指定等级的能力值。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_SkillsToLearn</name>
     <message>
         <source>Level</source>
-        <translation type="unfinished">等级</translation>
+        <translation>等级</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translation type="unfinished">技能</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Skills to Learn</source>
-        <translation type="unfinished">要学习的技能</translation>
+        <translation>要习得的技能</translation>
     </message>
     <message>
         <source>Skill to learn.</source>
-        <translation type="unfinished">要学习的技能。</translation>
+        <translation>要习得的技能。</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation type="unfinished">该职业角色升级时掌握的技能。</translation>
+        <translation>该职业角色升级时掌握的技能。</translation>
     </message>
     <message>
         <source>Level for learning the skill.</source>
-        <translation type="unfinished">学习该技能的等级。</translation>
+        <translation>习得该技能的等级。</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemMusic</name>
     <message>
         <source>Music</source>
-        <translation type="unfinished">音乐</translation>
+        <translation>音乐</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <source>Game Over</source>
-        <translation type="unfinished">游戏结束</translation>
+        <translation>游戏结束</translation>
     </message>
     <message>
         <source>Battle</source>
-        <translation type="unfinished">战斗</translation>
+        <translation>战斗</translation>
     </message>
     <message>
         <source>Defeat</source>
-        <translation type="unfinished">战败</translation>
+        <translation>败北</translation>
     </message>
     <message>
         <source>Music resources to be used throughout the game.</source>
-        <translation type="unfinished">整个游戏中使用的音乐资源。</translation>
+        <translation>整个游戏中共通使用的音乐素材。</translation>
     </message>
     <message>
         <source>Victory</source>
-        <translation type="unfinished">胜利</translation>
+        <translation>胜利</translation>
     </message>
 </context>
 <context>
     <name>EventCommand225</name>
     <message>
         <source>Power</source>
-        <translation type="unfinished">力量</translation>
+        <translation>强度</translation>
     </message>
     <message>
         <source>Shake</source>
-        <translation type="unfinished">摇动</translation>
+        <translation>摇动</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">速度</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Power of the shake.</source>
-        <translation type="unfinished">摇动的力量。</translation>
+        <translation>摇动的强度。</translation>
     </message>
     <message>
         <source>Speed of the shake.</source>
-        <translation type="unfinished">摇动的速度。</translation>
+        <translation>摇动的速度。</translation>
     </message>
     <message>
         <source>Specifies how the screen should shake.</source>
-        <translation type="unfinished">指定画面摇动的方式。</translation>
+        <translation>设定画面摇动的方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand302</name>
     <message>
         <source>Price</source>
-        <translation type="unfinished">价格</translation>
+        <translation>价格</translation>
     </message>
     <message>
         <source>Merchandise List</source>
-        <translation type="unfinished">商品列表</translation>
+        <translation>商品列表</translation>
     </message>
     <message>
         <source>Items that can be purchased at the shop.</source>
-        <translation type="unfinished">可在商店购买的道具。</translation>
+        <translation>商店贩卖的商品。</translation>
     </message>
     <message>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation type="unfinished">允许在商店出售道具。</translation>
+        <translation>禁止在该商店出售道具。</translation>
     </message>
     <message>
         <source>Merchandise</source>
-        <translation type="unfinished">商品</translation>
+        <translation>商品</translation>
     </message>
     <message>
         <source>Purchase Only</source>
-        <translation type="unfinished">仅购买</translation>
+        <translation>仅购买</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Encounter</name>
     <message>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation type="unfinished">敌群</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <source>Entire Map</source>
-        <translation type="unfinished">整个地图</translation>
+        <translation>整个地图</translation>
     </message>
     <message>
         <source>Troop to be encountered.</source>
-        <translation type="unfinished">随机遭遇的敌群。</translation>
+        <translation>遭遇的敌群。</translation>
     </message>
     <message>
         <source>Valid when a non-zero value is entered.</source>
-        <translation type="unfinished">输入非零值时有效。</translation>
+        <translation>输入非零值时有效。</translation>
     </message>
     <message>
         <source>Range in which the troop is encountered.</source>
-        <translation type="unfinished">随机遭遇的敌群的范围。</translation>
+        <translation>遭遇的敌群的范围。</translation>
     </message>
     <message>
         <source>Troop and Weight</source>
-        <translation type="unfinished">敌群和权重</translation>
+        <translation>敌群和权重</translation>
     </message>
     <message>
         <source>Basic encounter settings.</source>
-        <translation type="unfinished">基本遭遇设定。</translation>
+        <translation>遇敌的基本设置。</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished">权重</translation>
+        <translation>权重</translation>
     </message>
     <message>
         <source>No limit on the encounter range.</source>
-        <translation type="unfinished">冲突范围无限制。</translation>
+        <translation>不限制出现的范围。</translation>
     </message>
     <message>
         <source>Encounter</source>
-        <translation type="unfinished">冲突</translation>
+        <translation>遇敌</translation>
     </message>
     <message>
         <source>Value that affects the frequency at which the troop is encountered.</source>
-        <translation type="unfinished">影响遭遇敌群的概率的值。</translation>
+        <translation>影响遭遇敌群的概率的数值。</translation>
     </message>
     <message>
         <source>Specify by Region ID</source>
-        <translation type="unfinished">按地区ID指定</translation>
+        <translation>按区域ID指定</translation>
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation type="unfinished">指定地图编辑器设定的编号。</translation>
+        <translation>指定用地图编辑器设定的编号。</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation type="unfinished">地区ID</translation>
+        <translation>区域ID</translation>
     </message>
 </context>
 <context>
     <name>Group_Encounters</name>
     <message>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>出现范围</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation type="unfinished">敌群</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <source>Entire Map</source>
-        <translation type="unfinished">整个地图</translation>
+        <translation>整个地图</translation>
     </message>
     <message>
         <source>List of the troops for random encounters.</source>
-        <translation type="unfinished">随机遭遇的敌群列表。</translation>
+        <translation>随机遭遇的敌群列表。</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished">权重</translation>
+        <translation>权重</translation>
     </message>
     <message>
         <source>Encounters</source>
-        <translation type="unfinished">冲突</translation>
+        <translation>遇敌</translation>
     </message>
 </context>
 <context>
     <name>Group_VariableRange</name>
     <message>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <source>Operates all variables found between two specified numbers.</source>
-        <translation type="unfinished">操作在两个指定数字之间找到的所有变量。</translation>
+        <translation>操作在两个指定数字之间包含的所有变量。</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished">单个</translation>
+        <translation>单独</translation>
     </message>
     <message>
         <source>Operates one variable.</source>
-        <translation type="unfinished">操作一个变量。</translation>
+        <translation>操作一个变量。</translation>
     </message>
     <message>
         <source>Operates one switch.</source>
-        <translation type="unfinished">操作一个开关。</translation>
+        <translation>操作一个开关。</translation>
     </message>
     <message>
         <source>Operates all switches found between two specified numbers.</source>
-        <translation type="unfinished">操作在两个指定数字之间找到的所有开关。</translation>
+        <translation>操作在两个指定数字之间包含的所有开关。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand204</name>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">速度</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished">距离</translation>
+        <translation>距离</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Scroll direction.</source>
-        <translation type="unfinished">滚动方向。</translation>
+        <translation>滚动方向。</translation>
     </message>
     <message>
         <source>Number of tiles to scroll.</source>
-        <translation type="unfinished">要滚动的图块数。</translation>
+        <translation>要滚动的图块数。</translation>
     </message>
     <message>
         <source>Scroll speed.</source>
-        <translation type="unfinished">滚动速度。</translation>
+        <translation>滚动的速度。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand233</name>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">速度</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Rotation setting of the picture.</source>
-        <translation type="unfinished">图片旋转设置。</translation>
+        <translation>图片旋转设置。</translation>
     </message>
     <message>
         <source>Picture to rotate.</source>
-        <translation type="unfinished">要旋转的图片。</translation>
+        <translation>要旋转的图片。</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation type="unfinished">增加/减少角度的值。正值表示逆时针旋转。</translation>
+        <translation>图片旋转角度的增减值。正值表示逆时针旋转。</translation>
     </message>
 </context>
 <context>
     <name>MovementSpeedBox</name>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">速度</translation>
+        <translation>移动速度</translation>
     </message>
     <message>
         <source>Movement speed of the character.</source>
-        <translation type="unfinished">人物移动速度。</translation>
+        <translation>人物的移动速度。</translation>
     </message>
     <message>
         <source>4: Normal</source>
-        <translation type="unfinished">4: 标准</translation>
+        <translation>4: 标准速</translation>
     </message>
     <message>
         <source>2: x4 Slower</source>
-        <translation type="unfinished">2: x4 较慢</translation>
+        <translation>2: 1/4倍速</translation>
     </message>
     <message>
         <source>1: x8 Slower</source>
-        <translation type="unfinished">1: x8 较慢</translation>
+        <translation>1: 1/8倍速</translation>
     </message>
     <message>
         <source>3: x2 Slower</source>
-        <translation type="unfinished">3: x2 较慢</translation>
+        <translation>3: 1/2倍速</translation>
     </message>
     <message>
         <source>5: x2 Faster</source>
-        <translation type="unfinished">5: x2 较快</translation>
+        <translation>5: 2倍速</translation>
     </message>
     <message>
         <source>6: x4 Faster</source>
-        <translation type="unfinished">6: x4 较快</translation>
+        <translation>6: 4倍速</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ExpCurve</name>
     <message>
         <source>Total</source>
-        <translation type="unfinished">总计</translation>
+        <translation>累计</translation>
     </message>
     <message>
         <source>Acceleration A</source>
-        <translation type="unfinished">加速 A</translation>
+        <translation>增加度A</translation>
     </message>
     <message>
         <source>Acceleration B</source>
-        <translation type="unfinished">加速 B</translation>
+        <translation>增加度B</translation>
     </message>
     <message>
         <source>EXP Curve</source>
-        <translation type="unfinished">EXP 曲线</translation>
+        <translation>经验值曲线</translation>
     </message>
     <message>
         <source>EXP Table</source>
-        <translation type="unfinished">EXP 表</translation>
+        <translation>经验值表</translation>
     </message>
     <message>
         <source>Extra Value</source>
-        <translation type="unfinished">额外值</translation>
+        <translation>修正值</translation>
     </message>
     <message>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation type="unfinished">代表增加必要 EXP 的速率的值。影响整个 EXP 曲线。</translation>
+        <translation>代表增加必要经验值的速率的数值。影响整个经验值曲线。</translation>
     </message>
     <message>
         <source>Simple extra value added to the EXP necessary for each level.</source>
-        <translation type="unfinished">增加到每个等级必要 EXP 的简单额外值。</translation>
+        <translation>和每个等级的必要经验值的简单相加的数值。</translation>
     </message>
     <message>
         <source>Base Value</source>
-        <translation type="unfinished">基本值</translation>
+        <translation>基本值</translation>
     </message>
     <message>
         <source>List of EXP necessary for each level. Automatically calculated based on a combination of four parameters.</source>
-        <translation type="unfinished">每等级必要 EXP 列表。基于四个参数组合自动计算。</translation>
+        <translation>到达每个等级的必要经验值的列表。基于四种参数的组合自动计算。</translation>
     </message>
     <message>
         <source>Value representing the degree at which to exponentially increase the necessary EXP. Mainly affects the high-level range.</source>
-        <translation type="unfinished">代表指数级增加必要 EXP 的程度的值。主要影响高等级范围。</translation>
+        <translation>代表指数级增加必要经验值的程度的值。主要影响高等级范围。</translation>
     </message>
     <message>
         <source>To Next Level</source>
-        <translation type="unfinished">到下一级</translation>
+        <translation>到下一级</translation>
     </message>
     <message>
         <source>Base value for calculating necessary EXP.</source>
-        <translation type="unfinished">计算必要 EXP 的基本值。</translation>
+        <translation>计算必要经验值的基本值。</translation>
     </message>
 </context>
 <context>
     <name>Group_Troop</name>
     <message>
         <source>Troop</source>
-        <translation type="unfinished">敌群</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <source>Direct designation</source>
-        <translation type="unfinished">直接指定</translation>
+        <translation>直接指定</translation>
     </message>
     <message>
         <source>Specifies the troop determined by the variable.</source>
-        <translation type="unfinished">指定由变量确定的敌群。</translation>
+        <translation>基于变量指定敌群。</translation>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation type="unfinished">与随机冲突相同</translation>
+        <translation>和随机遇敌相同</translation>
     </message>
     <message>
         <source>Designation with a variable</source>
-        <translation type="unfinished">使用变量指定</translation>
+        <translation>使用变量指定</translation>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
-        <translation type="unfinished">从地图设置设定的随机遇敌列表中随机选择一支敌群。</translation>
+        <translation>从地图设置中设定的随机遇敌列表中随机选择一支敌群。</translation>
     </message>
     <message>
         <source>Specifies the troop directly.</source>
-        <translation type="unfinished">直接指定敌群。</translation>
+        <translation>直接指定敌群。</translation>
     </message>
     <message>
         <source>Troop to fight the party.</source>
-        <translation type="unfinished">与队伍战斗的敌群。</translation>
+        <translation>与队伍战斗的敌群。</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemStarting</name>
     <message>
         <source>player and the vehicles</source>
-        <translation type="unfinished">玩家和交通工具</translation>
+        <translation>玩家和交通工具</translation>
     </message>
     <message>
         <source>Starting Positions</source>
-        <translation type="unfinished">开始位置</translation>
+        <translation>初始位置</translation>
     </message>
     <message>
         <source>Location of the %1 at the start of the game.</source>
-        <translation type="unfinished">游戏开始时 %1 的位置。</translation>
+        <translation>游戏开始时的%1的位置。</translation>
     </message>
 </context>
 <context>
     <name>EventEditorMain</name>
     <message>
         <source>Event Editor</source>
-        <translation type="unfinished">事件编辑器</translation>
+        <translation>事件编辑器</translation>
     </message>
 </context>
 <context>
     <name>AnimationFrameList</name>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation type="unfinished">所选帧显示于右边。&lt;br&gt;[N] 选择下一个项目。&lt;br&gt;[B] 选择前一个项目。</translation>
+        <translation>所选帧显示于右边。&lt;br&gt;[N] 选择下一个项目。&lt;br&gt;[B] 选择前一个项目。</translation>
     </message>
     <message>
         <source>Frame List</source>
-        <translation type="unfinished">帧列表</translation>
+        <translation>帧列表</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MovementRoute</name>
     <message>
         <source>Movement Route</source>
-        <translation type="unfinished">移动路线</translation>
+        <translation>移动路线</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTransfer</name>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation type="unfinished">设置人物应移动到的位置。</translation>
+        <translation>设置人物应移动到的位置。</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished">位置</translation>
+        <translation>场所</translation>
     </message>
     <message>
         <source>Transfer</source>
-        <translation type="unfinished">场所移动</translation>
+        <translation>场所移动</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation type="unfinished">移动后人物的方向。</translation>
+        <translation>移动后人物的方向。</translation>
     </message>
 </context>
 <context>
     <name>ProjectManager</name>
     <message>
         <source>Failed to create a new project.</source>
-        <translation type="unfinished">新工程创建失败。</translation>
+        <translation>新工程创建失败。</translation>
     </message>
     <message>
         <source>Failed to write database.</source>
-        <translation type="unfinished">写入数据库失败。</translation>
+        <translation>写入数据库失败。</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished">开启工程</translation>
+        <translation>开启工程</translation>
     </message>
     <message>
         <source>Failed to create a distribution package.</source>
-        <translation type="unfinished">创建发行套件失败。</translation>
+        <translation>发布用软件包创建失败。</translation>
     </message>
     <message>
         <source>Unable to write file %1.</source>
-        <translation type="unfinished">不能写入文件 %1。</translation>
+        <translation>不能写入文件 %1。</translation>
     </message>
     <message>
         <source>The output folder already exists. Overwrite?</source>
-        <translation type="unfinished">导出文件夹已存在。覆写？</translation>
+        <translation>导出文件夹已存在。是否覆盖？</translation>
     </message>
     <message>
         <source>Succeeded to create a distribution package.</source>
-        <translation type="unfinished">创建发行套件成功。</translation>
+        <translation>发布用软件包创建成功。</translation>
     </message>
     <message>
         <source>Unable to read file %1.</source>
-        <translation type="unfinished">不能读取文件 %1。</translation>
+        <translation>不能读取文件 %1。</translation>
     </message>
     <message>
         <source>Unable to create directory %1.</source>
-        <translation type="unfinished">不能创建目录 %1。</translation>
+        <translation>不能创建目录 %1。</translation>
     </message>
     <message>
         <source>Save changes to the game?</source>
-        <translation type="unfinished">保存更改到游戏？</translation>
+        <translation>保存更改到游戏？</translation>
     </message>
     <message>
         <source>Version error.</source>
-        <translation type="unfinished">版本错误。</translation>
+        <translation>版本错误。</translation>
     </message>
     <message>
         <source>Unexpected file format.</source>
-        <translation type="unfinished">非预期文件格式。</translation>
+        <translation>非预期文件格式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand104</name>
     <message>
         <source>Type of items to be listed.</source>
-        <translation type="unfinished">要列出的道具的类型。</translation>
+        <translation>要列出的道具的类型。</translation>
     </message>
     <message>
         <source>Variable for storing the ID of the item the player selected. Zero is stored if the player cancels the selection.</source>
-        <translation type="unfinished">存取玩家选择的道具的 ID 的变更。若玩家取消选择，存取零。</translation>
+        <translation>指定玩家选择的道具的ID存储的变量。取消的情况下存储0。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation type="unfinished">变量</translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Item Type</source>
-        <translation type="unfinished">道具类型</translation>
+        <translation>道具类型</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBTypes</name>
     <message>
         <source>Changes the number of equipment types.</source>
-        <translation type="unfinished">更改装备类型数量。</translation>
+        <translation>更改装备类型数量。</translation>
     </message>
     <message>
         <source>Changes the number of skill types.</source>
-        <translation type="unfinished">更改技能类型数量。</translation>
+        <translation>更改技能类型数量。</translation>
     </message>
     <message>
         <source>Elements</source>
-        <translation type="unfinished">元素</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Name of the skill type. Displayed as a command in the game.</source>
-        <translation type="unfinished">技能类型的名称。在游戏中显示为指令。</translation>
+        <translation>技能类型的名称。在游戏中显示为指令。</translation>
     </message>
     <message>
         <source>Changes the number of armor types.</source>
-        <translation type="unfinished">更改防具类型数量。</translation>
+        <translation>更改防具类型数量。</translation>
     </message>
     <message>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation type="unfinished">代表赋予技能和道具的特性的数据。</translation>
+        <translation>代表赋予技能和道具的特性的数据。</translation>
     </message>
     <message>
         <source>Armor Types</source>
-        <translation type="unfinished">防具类型</translation>
+        <translation>防具类型</translation>
     </message>
     <message>
         <source>Name of the armor type.</source>
-        <translation type="unfinished">防具类型的名称。</translation>
+        <translation>防具类型的名称。</translation>
     </message>
     <message>
         <source>Weapon Types</source>
-        <translation type="unfinished">武器类型</translation>
+        <translation>武器类型</translation>
     </message>
     <message>
         <source>Name of the equipment type.</source>
-        <translation type="unfinished">装备类型的名称。</translation>
+        <translation>装备类型的名称。</translation>
     </message>
     <message>
         <source>Data for representing skill types. Each type of skill is treated as a separate command.</source>
-        <translation type="unfinished">代表技能类型的数据。每种技能类型处理为一个单独的指令。</translation>
+        <translation>代表技能的系统的数据。每种技能的类型被视作单独的指令。</translation>
     </message>
     <message>
         <source>Name of the weapon type.</source>
-        <translation type="unfinished">武器类型的名称。</translation>
+        <translation>武器类型的名称。</translation>
     </message>
     <message>
         <source>Data for representing armor types. Sets whether each armor type can be equipped.</source>
-        <translation type="unfinished">代表防具类型的数据。设置是否可装备每种防具类型。</translation>
+        <translation>代表防具的系统的数据。设置可以装备·不能装备的单位。</translation>
     </message>
     <message>
         <source>Equipment Types</source>
-        <translation type="unfinished">装备类型</translation>
+        <translation>装备类型</translation>
     </message>
     <message>
         <source>Data for representing equipment types such as body armor and head armor.</source>
-        <translation type="unfinished">代表如身体防具和头部防具等装备类型的数据。</translation>
+        <translation>代表如身体防具和头部防具等装备部位的数据。</translation>
     </message>
     <message>
         <source>Data for representing weapon types. Sets whether each weapon type can be equipped.</source>
-        <translation type="unfinished">代表武器类型的数据。设置是否可装备每种武器类型。</translation>
+        <translation>代表武器的系统的数据。设置可以装备·不能装备的单位。</translation>
     </message>
     <message>
         <source>Changes the number of elements.</source>
-        <translation type="unfinished">更改元素数量。</translation>
+        <translation>更改属性数量。</translation>
     </message>
     <message>
         <source>Changes the number of weapon types.</source>
-        <translation type="unfinished">更改武器类型数量。</translation>
+        <translation>更改武器类型数量。</translation>
     </message>
     <message>
         <source>Name of the element.</source>
-        <translation type="unfinished">元素名称。</translation>
+        <translation>属性的名称。</translation>
     </message>
     <message>
         <source>Skill Types</source>
-        <translation type="unfinished">技能类型</translation>
+        <translation>技能类型</translation>
     </message>
 </context>
 <context>
     <name>Group_MagicSkills</name>
     <message>
         <source>[SV] Magic Skills</source>
-        <translation type="unfinished">[SV] 魔法技能</translation>
+        <translation>[SV] 魔法技能</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation type="unfinished">技能类型</translation>
+        <translation>技能类型</translation>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation type="unfinished">在侧视模式中要求念咒动作的技能类型列表。</translation>
+        <translation>在侧视模式中要求咏唱动作的技能类型列表。</translation>
     </message>
 </context>
 <context>
     <name>Layout_EventPageButtons</name>
     <message>
         <source>Delete&lt;br&gt;Event Page</source>
-        <translation type="unfinished">删除&lt;br&gt;事件页面</translation>
+        <translation>删除&lt;br&gt;事件页面</translation>
     </message>
     <message>
         <source>Clears the contents of the current page.</source>
-        <translation type="unfinished">清除当前页面的内容。</translation>
+        <translation>清除当前页面的内容。</translation>
     </message>
     <message>
         <source>Deletes the current page.</source>
-        <translation type="unfinished">删除当事页面。</translation>
+        <translation>删除当前页面。</translation>
     </message>
     <message>
         <source>Clear&lt;br&gt;Event Page</source>
-        <translation type="unfinished">清除&lt;br&gt;事件页面</translation>
+        <translation>清除&lt;br&gt;事件页面</translation>
     </message>
     <message>
         <source>Creates a new consecutively numbered page after the current page.</source>
-        <translation type="unfinished">在当前页面之后创建新的连续编号页面。</translation>
+        <translation>在当前页面的下一个编号创建新的页面。</translation>
     </message>
     <message>
         <source>Paste&lt;br&gt;Event Page</source>
-        <translation type="unfinished">粘贴&lt;br&gt;事件页面</translation>
+        <translation>粘贴&lt;br&gt;事件页面</translation>
     </message>
     <message>
         <source>Copy&lt;br&gt;Event Page</source>
-        <translation type="unfinished">复制&lt;br&gt;事件页面</translation>
+        <translation>复制&lt;br&gt;事件页面</translation>
     </message>
     <message>
         <source>Copies the contents of the current page to the clipboard.</source>
-        <translation type="unfinished">复制当前页面的内容到剪贴板。</translation>
+        <translation>复制当前页面的内容到剪贴板。</translation>
     </message>
     <message>
         <source>Pastes the contents of the clipboard into a new page.</source>
-        <translation type="unfinished">粘贴剪贴板内容到新页面。</translation>
+        <translation>粘贴剪贴板内容到新页面。</translation>
     </message>
     <message>
         <source>New&lt;br&gt;Event Page</source>
-        <translation type="unfinished">新建&lt;br&gt;事件页面</translation>
+        <translation>新建&lt;br&gt;事件页面</translation>
     </message>
 </context>
 <context>
     <name>EventCommand213</name>
     <message>
         <source>Character to be the target.</source>
-        <translation type="unfinished">要成为目标的人物。</translation>
+        <translation>要成为目标的人物。</translation>
     </message>
     <message>
         <source>Balloon Icon</source>
-        <translation type="unfinished">气球图标</translation>
+        <translation>气球图标</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation type="unfinished">等待效果完成。</translation>
+        <translation>等待效果完成。</translation>
     </message>
     <message>
         <source>Type of balloon icon to be displayed.</source>
-        <translation type="unfinished">要显示的气球图标的类型。</translation>
+        <translation>要显示的气球图标的类型。</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished">人物</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation type="unfinished">等待完成</translation>
+        <translation>等待完成</translation>
     </message>
 </context>
 <context>
     <name>Group_Operation</name>
     <message>
         <source>Adds the operand.</source>
-        <translation type="unfinished">添加操作数。</translation>
+        <translation>加上操作数。</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation type="unfinished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Selects whether to increase or decrease.</source>
-        <translation type="unfinished">选择是否要增加或减少。</translation>
+        <translation>选择增加或减少。</translation>
     </message>
     <message>
         <source>Subtracts the operand.</source>
-        <translation type="unfinished">减去操作数。</translation>
+        <translation>减去操作数。</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation type="unfinished">减少</translation>
+        <translation>减少</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished">操作</translation>
+        <translation>操作</translation>
     </message>
 </context>
 <context>
     <name>MovementFrequencyBox</name>
     <message>
         <source>Frequency of autonomous movement.</source>
-        <translation type="unfinished">自主移动频率。</translation>
+        <translation>自主移动发生的频率。</translation>
     </message>
     <message>
         <source>4: Higher</source>
-        <translation type="unfinished">4: 较高</translation>
+        <translation>4: 高</translation>
     </message>
     <message>
         <source>1: Lowest</source>
-        <translation type="unfinished">1: 最低</translation>
+        <translation>1: 最低</translation>
     </message>
     <message>
         <source>3: Normal</source>
-        <translation type="unfinished">3: 标准</translation>
+        <translation>3: 标准</translation>
     </message>
     <message>
         <source>2: Lower</source>
-        <translation type="unfinished">2: 较低</translation>
+        <translation>2: 低</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished">频率</translation>
+        <translation>移动频率</translation>
     </message>
     <message>
         <source>5: Highest</source>
-        <translation type="unfinished">5: 最高</translation>
+        <translation>5: 最高</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemOptions</name>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
-        <translation type="unfinished">启用显示行走在玩家身后的队伍成员。可通过 [变更队伍跟随] 事件指令更改。</translation>
+        <translation>启用显示行走在玩家身后的队伍成员。可通过［变更队伍跟随］事件指令更改。</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
-        <translation type="unfinished">在战斗中显示 TP</translation>
+        <translation>在战斗中显示TP</translation>
     </message>
     <message>
         <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
-        <translation type="unfinished">在战斗中在状态窗口显示每个队伍成员的 TP。如果你不使用 TP 系统，取消勾选此选项。</translation>
+        <translation>战斗中在状态窗口显示每个队伍成员的TP。如果你不使用TP系统，则取消勾选此选项。</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
-        <translation type="unfinished">地面伤害 KO</translation>
+        <translation>地形伤害导致战斗不能</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation type="unfinished">允许 HP 因地图地形造成的伤害降至 0。若未勾选，停止在 1 HP。</translation>
+        <translation>允许HP因地图地形造成的伤害降至0。若未勾选，则停止在HP1。</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>EXP for Reserve Members</source>
-        <translation type="unfinished">保留成员的 EXP</translation>
+        <translation>候补成员也获得经验值</translation>
     </message>
     <message>
         <source>When there are more than four characters in the party, this setting allows party members that did not participate in a battle to get a share of the resulting EXP.</source>
-        <translation type="unfinished">当队伍有四名以上人物时，此设置允许未参与战斗的队伍成员分享获得的 EXP。</translation>
+        <translation>队伍人数超过4人的情况下，此设置允许未参与战斗的队伍成员也获得经验值。</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
-        <translation type="unfinished">在侧视图中显示战斗画面。若未勾选，将使用前视图模式。</translation>
+        <translation>侧视图显示战斗画面。若未勾选，将使用前视图模式。</translation>
     </message>
     <message>
         <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
-        <translation type="unfinished">将玩家的透明度标记设置为ON来开始游戏。可通过 [更改透明度] 事件指令关闭。</translation>
+        <translation>将玩家的透明标记设置为ON的状态来开始游戏。可通过［更改透明状态］事件指令关闭。</translation>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation type="unfinished">使用侧视图战斗</translation>
+        <translation>使用侧视战斗</translation>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation type="unfinished">开始透明</translation>
+        <translation>以透明状态开始</translation>
     </message>
     <message>
         <source>Show Player Followers</source>
-        <translation type="unfinished">显示队伍跟随</translation>
+        <translation>显示队伍跟随</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation type="unfinished">允许 HP 因不测伤害（如中毒）降至 0。若未勾选，停止在 1 HP。</translation>
+        <translation>允许HP因持续伤害（如中毒）降至0。若未勾选，则停止在HP1。</translation>
     </message>
     <message>
         <source>Knockout by Slip Damage</source>
-        <translation type="unfinished">不测伤害 KO</translation>
+        <translation>持续伤害导致战斗不能</translation>
     </message>
     <message>
         <source>Options that affect the entire game.</source>
-        <translation type="unfinished">影响整个游戏的选项。</translation>
+        <translation>影响整个游戏的选项。</translation>
     </message>
 </context>
 <context>
     <name>AnimationScreen</name>
     <message>
         <source>To Lower</source>
-        <translation type="unfinished">向下</translation>
+        <translation>向下</translation>
     </message>
     <message>
         <source>To Upper</source>
-        <translation type="unfinished">向上</translation>
+        <translation>向上</translation>
     </message>
 </context>
 <context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation type="unfinished">新帧数目。当减少该数字，超过该数字的任何现有帧将被删除。</translation>
+        <translation>新的帧数。减少该数字的情况下，超过该数字的任何现有帧将被删除。</translation>
     </message>
     <message>
         <source>Max Frames</source>
-        <translation type="unfinished">最大帧数</translation>
+        <translation>最大帧数</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">数目</translation>
+        <translation>帧数</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
     <message>
         <source>Description of the parameter.</source>
-        <translation type="unfinished">参数描述。</translation>
+        <translation>参数的说明。</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation type="unfinished">参数</translation>
+        <translation>参数</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Value for the parameter.</source>
-        <translation type="unfinished">参数的值。</translation>
+        <translation>参数的值。</translation>
     </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
     <message>
         <source>Wait 1 second.</source>
-        <translation type="unfinished">等待 1 秒。</translation>
+        <translation>等待1秒。</translation>
     </message>
     <message>
         <source>Decrease the text size by one step.</source>
-        <translation type="unfinished">一格减少文字大小。</translation>
+        <translation>文字大小减小一号。</translation>
     </message>
     <message>
         <source>Increase the text size by one step.</source>
-        <translation type="unfinished">一格增加文字大小。</translation>
+        <translation>文字大小增大一号。</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth party member.</source>
-        <translation type="unfinished">由 nth 队伍成员名称替换。</translation>
+        <translation>替换为n号队伍成员的名称。</translation>
     </message>
     <message>
         <source>Do not wait for input after displaying text.</source>
-        <translation type="unfinished">显示文字后不等待输入。</translation>
+        <translation>显示文章后不等待输入。</translation>
     </message>
     <message>
         <source>Draw the nth icon.</source>
-        <translation type="unfinished">绘制第n个图标。</translation>
+        <translation>绘制n号图标。</translation>
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation type="unfinished">开启金币窗口。</translation>
+        <translation>开启所持金窗口。</translation>
     </message>
     <message>
         <source>Replaced by the value of the nth variable.</source>
-        <translation type="unfinished">由 nth 变更值替换。</translation>
+        <translation>替换为n号变量的值。</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
-        <translation type="unfinished">一次显示同一行全部剩余文字。</translation>
+        <translation>同一行剩余文字瞬间显示。</translation>
     </message>
     <message>
         <source>Control characters</source>
-        <translation type="unfinished">控制字符</translation>
+        <translation>控制字符</translation>
     </message>
     <message>
         <source>Wait for button input.</source>
-        <translation type="unfinished">等待按钮输入。</translation>
+        <translation>等待按键输入。</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth actor.</source>
-        <translation type="unfinished">由 nth 角色名称替换。</translation>
+        <translation>替换为N号角色的名称。</translation>
     </message>
     <message>
         <source>Replaced with the backslash character.</source>
-        <translation type="unfinished">由反斜杠字符替换。</translation>
+        <translation>替换为反斜杠（\）。</translation>
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation type="unfinished">以第n种颜色绘制随附文字。</translation>
+        <translation>以n号颜色绘制之后的文字。</translation>
     </message>
     <message>
         <source>Replaced by the currency unit.</source>
-        <translation type="unfinished">由货币单位替换。</translation>
+        <translation>替换为货币单位。</translation>
     </message>
     <message>
         <source>Cancel the effect that displays text all at once.</source>
-        <translation type="unfinished">一次取消所有文字显示效果。</translation>
+        <translation>取消瞬间显示文字的效果。</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
-        <translation type="unfinished">等待 1/4 秒。</translation>
+        <translation>等待1/4秒。</translation>
     </message>
 </context>
 <context>
@@ -12162,7 +12162,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Target platform of the distribution package.</source>
-        <translation type="unfinished">发行套件的目标平台。</translation>
+        <translation>发布用软件包的目标平台。</translation>
     </message>
     <message>
         <source>Creates a package for Mac OS X.</source>
@@ -12370,7 +12370,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">正在创建发行套件...</translation>
+        <translation>正在创建发布用软件包...</translation>
     </message>
 </context>
 <context>
