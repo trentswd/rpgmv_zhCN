@@ -1,48 +1,48 @@
-﻿Wall A (Dirt Cave)|壁A（土洞窟）
-Wall B (Rock Cave)|壁B（岩洞窟）
-Wall C (Lava Cave)|壁C（溶岩洞窟）
-Wall D (Ice Cave)|壁D（氷洞窟）
-Wall E (Grass Maze)|壁E（草迷宮）
-Wall F (Crystal)|壁F（水晶）
-Wall G (In Body)|壁G（体内）
-Wall H (Demonic World)|壁H（魔界）
-Wall A (Dirt Cave)|壁A（土洞窟）
-Wall B (Rock Cave)|壁B（岩洞窟）
-Wall C (Lava Cave)|壁C（溶岩洞窟）
-Wall D (Ice Cave)|壁D（氷洞窟）
-Wall E (Grass Maze)|壁E（草迷宮）
-Wall F (Crystal)|壁F（水晶）
-Wall G (In Body)|壁G（体内）
-Wall H (Demonic World)|壁H（魔界）
-Wall I (Stone)|壁I（石）
-Wall J (Brick)|壁J（レンガ）
-Wall K (Brick)|壁K（レンガ）
-Wall L (Stone)|壁L（石）
-Wall M (Stone)|壁M（石）
-Wall N (Castle)|壁N（城）
-Wall O (Fort)|壁O（砦）
-Wall P (Demon Castle)|壁P（魔王城）
-Wall I (Stone)|壁I（石）
-Wall J (Brick)|壁J（レンガ）
-Wall K (Brick)|壁K（レンガ）
-Wall L (Stone)|壁L（石）
-Wall M (Stone)|壁M（石）
-Wall N (Castle)|壁N（城）
-Wall O (Fort)|壁O（砦）
-Wall P (Demon Castle)|壁P（魔王城）
-Wall Q (Temple)|壁Q（神殿）
-Wall R (Marble)|壁R（大理石）
-Wall S (Frozen)|壁S（凍結）
-Wall T (Factory)|壁T（工場）
-Ledge A (Dirt Cave)|段差A（土洞窟）
-Ledge B (Rock Cave)|段差B（岩洞窟）
-Ledge C (Lava Cave)|段差C（溶岩洞窟）
-Ledge D (Ice Cave)|段差D（氷洞窟）
-Wall Q (Temple)|壁Q（神殿）
-Wall R (Marble)|壁R（大理石）
-Wall S (Frozen)|壁S（凍結）
-Wall T (Factory)|壁T（工場）
-Ledge A (Dirt Cave)|段差A（土洞窟）
-Ledge B (Rock Cave)|段差B（岩洞窟）
-Ledge C (Lava Cave)|段差C（溶岩洞窟）
-Ledge D (Ice Cave)|段差D（氷洞窟）
+﻿墙A（土洞窟）|壁A（土洞窟）
+墙B（岩石洞窟）|壁B（岩洞窟）
+墙C（熔岩洞窟）|壁C（溶岩洞窟）
+墙D（冰洞窟）|壁D（氷洞窟）
+墙E（草迷宫）|壁E（草迷宮）
+墙F（水晶）|壁F（水晶）
+墙G（体内）|壁G（体内）
+墙H（魔界）|壁H（魔界）
+墙A（土洞窟）|壁A（土洞窟）
+墙B（岩石洞窟）|壁B（岩洞窟）
+墙C（熔岩洞窟）|壁C（溶岩洞窟）
+墙D（冰洞窟）|壁D（氷洞窟）
+墙E（草迷宫）|壁E（草迷宮）
+墙F（水晶）|壁F（水晶）
+墙G（体内）|壁G（体内）
+墙H（魔界）|壁H（魔界）
+墙I（石）|壁I（石）
+墙J（砖）|壁J（レンガ）
+墙K（砖）|壁K（レンガ）
+墙L（石）|壁L（石）
+墙M（石）|壁M（石）
+墙N（城堡）|壁N（城）
+墙O（要塞）|壁O（砦）
+墙P（魔王城）|壁P（魔王城）
+墙I（石）|壁I（石）
+墙J（砖）|壁J（レンガ）
+墙K（砖）|壁K（レンガ）
+墙L（石）|壁L（石）
+墙M（石）|壁M（石）
+墙N（城堡）|壁N（城）
+墙O（要塞）|壁O（砦）
+墙P（魔王城）|壁P（魔王城）
+墙Q（神殿）|壁Q（神殿）
+墙R（大理石）|壁R（大理石）
+墙S（冻结）|壁S（凍結）
+墙T（工厂）|壁T（工場）
+高台A（土洞窟）|段差A（土洞窟）
+高台B（岩石洞窟）|段差B（岩洞窟）
+高台C（熔岩洞窟）|段差C（溶岩洞窟）
+高台D（冰洞窟）|段差D（氷洞窟）
+墙Q（神殿）|壁Q（神殿）
+墙R（大理石）|壁R（大理石）
+墙S（冻结）|壁S（凍結）
+墙T（工厂）|壁T（工場）
+高台A（土洞窟）|段差A（土洞窟）
+高台B（岩石洞窟）|段差B（岩洞窟）
+高台C（熔岩洞窟）|段差C（溶岩洞窟）
+高台D（冰洞窟）|段差D（氷洞窟）
