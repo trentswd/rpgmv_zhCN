@@ -2086,15 +2086,15 @@ the Attack command.</source>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>虚弱1</translation>
+        <translation>弱化1</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>虚弱2</translation>
+        <translation>弱化2</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>虚弱3</translation>
+        <translation>弱化3</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
@@ -6969,7 +6969,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Buff Remove</source>
-        <translation>强化、虚弱的解除</translation>
+        <translation>强化、弱化的解除</translation>
     </message>
     <message>
         <source>BGM Volume</source>
@@ -7053,7 +7053,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Debuff Add</source>
-        <translation>虚弱</translation>
+        <translation>弱化</translation>
     </message>
     <message>
         <source>Preemptive</source>
