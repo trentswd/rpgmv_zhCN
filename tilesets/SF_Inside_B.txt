@@ -1,256 +1,256 @@
-﻿Transparent|透明
-Stairs A (Up)|階段A（上り）
-Stairs B (Up)|階段B（上り）
-Stairs C (Up)|階段C（上り）
-Stairs D (Up)|階段D（上り）
-Metal Ladder|鉄ばしご
-Metal Stairs|金属階段
-Rope|ロープ
-Hole|穴
-Stairs A (Down)|階段A（下り）
-Stairs B (Down)|階段B（下り）
-Stairs C (Down)|階段C（下り）
-Stairs D (Down)|階段D（下り）
-Metal Ladder|鉄ばしご
-Metal Stairs|金属階段
-Rope|ロープ
-Midsize Window A|中型窓A
-Midsize Window B|中型窓B
-Large Window A|大型窓A
-Midsize Window C|中型窓C
-Large Window B|大型窓B
-Metal Ladder|鉄ばしご
-Metal Stairs|金属階段
-Rope|ロープ
-Midsize Window A|中型窓A
-Midsize Window B|中型窓B
-Large Window A|大型窓A
-Midsize Window C|中型窓C
-Large Window B|大型窓B
-Hole A (Metal Ladder)|穴A（鉄ばしご）
-Hole B (Metal Stairs)|穴B（金属階段）
-Hole C (Rope)|穴C（ロープ）
-Asphalt Bridge (V)|アスファルトの橋（縦）
-Asphalt Bridge (H)|アスファルトの橋（横）
-Stone Bridge (V)|石の橋（縦）
-Stone Bridge (H)|石の橋（横）
-Metal Bridge A (V)|金属の橋A（縦）
-Metal Bridge A (H)|金属の橋A（横）
-Metal Bridge B (V)|金属の橋B（縦）
-Metal Bridge B (H)|金属の橋B（横）
-Bridge Spar A (Asphalt, Center A)|橋げたA（アスファルト・中央A）
-Bridge Spar A (Asphalt, Left)|橋げたA（アスファルト・左）
-Bridge Spar A (Asphalt, Center B)|橋げたA（アスファルト・中央B）
-Bridge Spar A (Asphalt, Right)|橋げたA（アスファルト・右）
-Bridge Spar B (Metal, Center A)|橋げたB（金属・中央A）
-Bridge Spar B (Metal, Left)|橋げたB（金属・左）
-Bridge Spar B (Metal, Center B)|橋げたB（金属・中央B）
-Bridge Spar B (Metal, Right)|橋げたB（金属・右）
-Metal Fence|金属フェンス
-Metal Fence|金属フェンス
-Metal Fence|金属フェンス
-Warning Plate (Keep Out)|警告プレート（KEEP OUT）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal, Stairs)|連絡橋（金属・階段）
-Metal Fence|金属フェンス
-Warning Plate (Exclamation Mark)|警告プレート（！マーク）
-Metal Fence|金属フェンス
-Warning Plate (Radioactivity Mark)|警告プレート（放射能マーク）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal, Stairs)|連絡橋（金属・階段）
-Metal Fence|金属フェンス
-Metal Fence|金属フェンス
-Metal Fence|金属フェンス
-Warning Plate (Biohazard Mark)|警告プレート（バイオハザードマーク）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Connecting Bridge (Metal)|連絡橋（金属）
-Podium (H)|教壇机（横）
-Pillar A (Asphalt)|柱A（アスファルト）
-Pillar B (Metal)|柱B（金属）
-Pillar C (Machine)|柱C（機械）
-Pillar D (Decoration)|柱D（装飾）
-Pillar E (Metal)|柱E（金属）
-Pillar F (Brick)|柱F（レンガ）
-Large Window C|大型窓C
-Podium (H)|教壇机（横）
-Pillar A (Asphalt)|柱A（アスファルト）
-Pillar B (Metal)|柱B（金属）
-Pillar C (Machine)|柱C（機械）
-Pillar D (Decoration)|柱D（装飾）
-Pillar E (Metal)|柱E（金属）
-Pillar F (Brick)|柱F（レンガ）
-Large Window C|大型窓C
-Podium (V)|教壇机（縦）
-Broken Pillar A (Asphalt)|折れた柱A（アスファルト）
-Broken Pillar B (Metal)|折れた柱B（金属）
-Broken Pillar C (Machine)|折れた柱C（機械）
-Broken Pillar D (Decoration)|折れた柱D（装飾）
-Broken Pillar E (Metal)|折れた柱E（金属）
-Broken Pillar F (Brick)|折れた柱F（レンガ）
-Barricade (No Entry)|バリケード（通行禁止）
-Podium (V)|教壇机（縦）
-Girder A (Asphalt, Left)|梁A（アスファルト・左）
-Girder A (Asphalt, Center)|梁A（アスファルト・中央）
-Girder A (Asphalt, Right)|梁A（アスファルト・右）
-Girder C (Decoration, Left)|梁C（装飾・左）
-Girder C (Decoration, Center)|梁C（装飾・中央）
-Girder C (Decoration, Right)|梁C（装飾・右）
-Bar (No Entry)|バー（通行禁止）
-Bar (No Entry)|バー（通行禁止）
-Girder B (Metal, Left)|梁B（金属・左）
-Girder B (Metal, Center)|梁B（金属・中央）
-Girder B (Metal, Right)|梁B（金属・右）
-Rubble A (Asphalt)|瓦礫A（アスファルト）
-Rubble B (Metal)|瓦礫B（金属）
-Fissures A|亀裂A
-Fissures B|亀裂B
-Fissures C|亀裂C
-Jail Bars|鉄格子
-Laser Barrier|レーザーバリア
-Wheelchair (Left)|車いす（左）
-Wheelchair (Right)|車いす（右）
-Pipe Frame Bed (Ruins)|パイプベッド（廃墟）
-Fissures A|亀裂A
-Fissures B|亀裂B
-Fissures C|亀裂C
-Jail Bars|鉄格子
-Laser Barrier|レーザーバリア
-Wheelchair (Bottom)|車いす（下）
-Wheelchair (Fallen)|車いす（倒れ）
-Pipe Frame Bed (Ruins)|パイプベッド（廃墟）
-Lab Equipment|実験器具
-School Desk (V)|学校机（縦）
-School Desk (H)|学校机（横）
-TV|テレビ
-Computer|PC
-Laptop|ノートPC
-Printer|プリンター
-Telephone|電話
-Intercom (Hanging)|インターホン（壁掛け）
-Tablet Device|タブレット端末
-Table Clock|置時計
-Gas Stove|ガスコンロ
-Kitchen Counter|調理台
-Sink|流し
-Exhaust Fan|換気扇
-Air Conditioner|エアコン
-Wastebasket|ゴミ箱
-Book Stand|本立て
-Document|書類
-School Chair (Bottom)|学校イス（下）
-School Chair (Top)|学校イス（上）
-School Chair (Right)|学校イス（右）
-School Chair (Left)|学校イス（左）
-Sofa (Right)|ソファ（右）
-Sofa (Left)|ソファ（左）
-Sofa (Down)|ソファ（下）
-Sofa (Up)|ソファ（下）
-Office Chair (Bottom)|オフィスチェア（下）
-Office Chair (Top)|オフィスチェア（上）
-Office Chair (Right)|オフィスチェア（右）
-Office Chair (Left)|オフィスチェア（左）
-Sofa (Right)|ソファ（右）
-Sofa (Left)|ソファ（左）
-Sofa (Top)|ソファ（上）
-Sofa (Top)|ソファ（上）
-Washing Machine|洗濯機
-Western Style Toilet|洋式便器
-Urinal|男性用便器
-Bathroom Sink|洗面台
-Bathtub (V)|バスタブ（縦）
-Bathtub (H)|バスタブ（横）
-Bathtub (H)|バスタブ（横）
-Glass Table (V)|ガラステーブル（縦）
-Washing Machine|洗濯機
-Western Style Toilet|洋式便器
-Urinal|男性用便器
-Wash Basin|洗面台
-Bathtub (V)|バスタブ（縦）
-Glass Table (H)|ガラステーブル（横）
-Glass Table (H)|ガラステーブル（横）
-Glass Table (V)|ガラステーブル（縦）
-Refrigerator|冷蔵庫
-Bookshelf A|本棚A
-Chest of Drawers A|タンスA
-Miscellaneous Item Shelf|雑貨棚
-Locker A|ロッカーA
-Document Shelf|資料棚
-Medicine Shelf|薬品棚
-Locker B (School)|ロッカーB（学校）
-Refrigerator|冷蔵庫
-Bookshelf A|本棚A
-Chest of Drawers A|タンスA
-Miscellaneous Item Shelf |雑貨棚
-Locker A|ロッカーA
-Document Shelf|資料棚
-Medicine Shelf|薬品棚
-Locker B (School)|ロッカーB（学校）
-Display Shelf A|商品陳列棚A
-Display Shelf B|商品陳列棚B
-Convenience Store Shelf A|コンビニ棚A
-Convenience Store Shelf B|コンビニ棚B
-Document Shelf (Ruins)|資料棚（廃墟）
-Chest of Drawers B (Decoration)|タンスB（装飾）
-Shelf A (Decoration)|棚A（装飾）
-Bookshelf B (Decoration)|本棚B（装飾）
-Display Shelf A|商品陳列棚A
-Display Shelf B|商品陳列棚B
-Convenience Store Shelf A|コンビニ棚A
-Convenience Store Shelf B|コンビニ棚B
-Document Shelf (Ruins)|資料棚（廃墟）
-Chest of Drawers B (Decoration)|タンスB（装飾）
-Shelf A (Decoration)|棚A（装飾）
-Bookshelf B (Decoration)|本棚B（装飾）
-Stacked Crates|積まれた木箱
-Shipping Container|コンテナ
-Stacked Cardboard Boxes|積まれたダンボール
-Vending Machine|自動販売機
-ATM|ATM
-Steel Shelf|鉄骨棚
-Operating Table|手術台
-Hospital Bed|病院ベッド
-Stacked Crates|積まれた木箱
-Shipping Container|コンテナ
-Stacked Cardboard Boxes|積まれたダンボール
-Vending Machine|自動販売機
-ATM|ATM
-Steel Shelf|鉄骨棚
-Operating Table|手術台
-Hospital Bed|病院ベッド
-Bed|ベッド
-Mattress|敷布団
-Large Bed|ダブルベッド
-Large Bed|ダブルベッド
-Pipe Frame Bed|パイプベッド
-Slot Machine |スロット
-Poker Table|ポーカー台
-Poker Table|ポーカー台
-Bed|ベッド
-Mattress|敷布団
-Large Bed|ダブルベッド
-Large Bed|ダブルベッド
-Pipe Frame Bed|パイプベッド
-Slot Machine|スロット
-Poker Table|ポーカー台
-Poker Table|ポーカー台
-Chest A (Wood)|チェストA（木製）
-Chest B (Metal)|チェストB（金属）
-Chest C (Decoration)|チェストC（装飾）
-Large Desk A|大きいデスクA
-Large Desk A|大きいデスクA
-Roulette Table|ルーレット台
-Roulette Table|ルーレット台
-Roulette Table|ルーレット台
-Side Desk A (Wood)|サイドデスクA（木製）
-Side Desk B (Metal)|サイドデスクB（金属）
-Desk|デスク
-Large Desk B|大きいデスクB
-Large Desk B|大きいデスクB
-Roulette Table|ルーレット台
-Roulette Table|ルーレット台
-Roulette Table|ルーレット台
+﻿透明|透明
+台阶A（向上）|階段A（上り）
+台阶B（向上）|階段B（上り）
+台阶C（向上）|階段C（上り）
+台阶D（向上）|階段D（上り）
+金属梯|鉄ばしご
+金属楼梯|金属階段
+绳子|ロープ
+洞|穴
+台阶A（向下）|階段A（下り）
+台阶B（向下）|階段B（下り）
+台阶C（向下）|階段C（下り）
+台阶D（向下）|階段D（下り）
+金属梯|鉄ばしご
+金属台阶|金属階段
+绳子|ロープ
+中型窗A|中型窓A
+中型窗B|中型窓B
+大型窗A|大型窓A
+中型窗C|中型窓C
+大型窗B|大型窓B
+金属梯|鉄ばしご
+金属台阶|金属階段
+绳子|ロープ
+中型窗A|中型窓A
+中型窗B|中型窓B
+大型窗A|大型窓A
+中型窗C|中型窓C
+大型窗B|大型窓B
+洞A（金属梯）|穴A（鉄ばしご）
+洞B（金属台阶）|穴B（金属階段）
+洞C（绳子）|穴C（ロープ）
+沥青桥（纵）|アスファルトの橋（縦）
+沥青桥（横）|アスファルトの橋（横）
+石桥（纵）|石の橋（縦）
+石桥（横）|石の橋（横）
+金属桥A（纵）|金属の橋A（縦）
+金属桥A（横）|金属の橋A（横）
+金属桥B（纵）|金属の橋B（縦）
+金属桥B（横）|金属の橋B（横）
+桥梁A（沥青·中A）|橋げたA（アスファルト・中央A）
+桥梁A（沥青·左）|橋げたA（アスファルト・左）
+桥梁A（沥青·中B）|橋げたA（アスファルト・中央B）
+桥梁A（沥青·右）|橋げたA（アスファルト・右）
+桥梁B（金属·中A）|橋げたB（金属・中央A）
+桥梁B（金属·左）|橋げたB（金属・左）
+桥梁B（金属·中B）|橋げたB（金属・中央B）
+桥梁B（金属·右）|橋げたB（金属・右）
+金属栅栏|金属フェンス
+金属栅栏|金属フェンス
+金属栅栏|金属フェンス
+警示牌（Keep Out）|警告プレート（KEEP OUT）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属·台阶）|連絡橋（金属・階段）
+金属栅栏|金属フェンス
+警示牌（感叹号）|警告プレート（！マーク）
+金属栅栏|金属フェンス
+警示牌（放射性标志）|警告プレート（放射能マーク）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属·台阶）|連絡橋（金属・階段）
+金属栅栏|金属フェンス
+金属栅栏|金属フェンス
+金属栅栏|金属フェンス
+警示牌（生物危害标志）|警告プレート（バイオハザードマーク）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+连接桥（金属）|連絡橋（金属）
+演讲台（横）|教壇机（横）
+柱A（沥青）|柱A（アスファルト）
+柱B（金属）|柱B（金属）
+柱C（机械）|柱C（機械）
+柱D（装饰）|柱D（装飾）
+柱E（金属）|柱E（金属）
+柱F（砖）|柱F（レンガ）
+大型窗C|大型窓C
+演讲台（横）|教壇机（横）
+柱A（沥青）|柱A（アスファルト）
+柱B（金属）|柱B（金属）
+柱C（机械）|柱C（機械）
+柱D（装饰）|柱D（装飾）
+柱E（金属）|柱E（金属）
+柱F（砖）|柱F（レンガ）
+大型窗C|大型窓C
+演讲台（纵）|教壇机（縦）
+断裂柱A（沥青）|折れた柱A（アスファルト）
+断裂柱B（金属）|折れた柱B（金属）
+断裂柱C（机械）|折れた柱C（機械）
+断裂柱D（装饰）|折れた柱D（装飾）
+断裂柱E（金属）|折れた柱E（金属）
+断裂柱F（砖）|折れた柱F（レンガ）
+路障（禁止通行）|バリケード（通行禁止）
+演讲台（纵）|教壇机（縦）
+横梁A（沥青·左）|梁A（アスファルト・左）
+横梁A（沥青·中）|梁A（アスファルト・中央）
+横梁A（沥青·右）|梁A（アスファルト・右）
+横梁C（装饰·左）|梁C（装飾・左）
+横梁C（装饰·中）|梁C（装飾・中央）
+横梁C（装饰·右）|梁C（装飾・右）
+道闸（禁止通行）|バー（通行禁止）
+道闸（禁止通行）|バー（通行禁止）
+横梁B（金属·左）|梁B（金属・左）
+横梁B（金属·中）|梁B（金属・中央）
+横梁B（金属·右）|梁B（金属・右）
+瓦砾A（沥青）|瓦礫A（アスファルト）
+瓦砾B（金属）|瓦礫B（金属）
+裂缝A|亀裂A
+裂缝B|亀裂B
+裂缝C|亀裂C
+铁栏|鉄格子
+激光光栅|レーザーバリア
+轮椅（左）|車いす（左）
+轮椅（右）|車いす（右）
+铁架床（废墟）|パイプベッド（廃墟）
+裂缝A|亀裂A
+裂缝B|亀裂B
+裂缝C|亀裂C
+铁栏|鉄格子
+激光光栅|レーザーバリア
+轮椅（下）|車いす（下）
+轮椅（翻倒）|車いす（倒れ）
+铁架床（废墟）|パイプベッド（廃墟）
+实验设备|実験器具
+课桌（纵）|学校机（縦）
+课桌（横）|学校机（横）
+电视|テレビ
+电脑|PC
+笔记本电脑|ノートPC
+打印机|プリンター
+电话|電話
+对讲机（挂墙）|インターホン（壁掛け）
+平板电脑|タブレット端末
+台钟|置時計
+煤气灶|ガスコンロ
+调理台|調理台
+水槽|流し
+换气扇|換気扇
+空调|エアコン
+纸篓|ゴミ箱
+书立|本立て
+文件|書類
+课椅（下）|学校イス（下）
+课椅（上）|学校イス（上）
+课椅（右）|学校イス（右）
+课椅（左）|学校イス（左）
+沙发（右）|ソファ（右）
+沙发（左）|ソファ（左）
+沙发（下）|ソファ（下）
+沙发（下）|ソファ（下）
+办公椅（下）|オフィスチェア（下）
+办公椅（上）|オフィスチェア（上）
+办公椅（右）|オフィスチェア（右）
+办公椅（左）|オフィスチェア（左）
+沙发（右）|ソファ（右）
+沙发（左）|ソファ（左）
+沙发（上）|ソファ（上）
+沙发（上）|ソファ（上）
+洗衣机|洗濯機
+西式马桶|洋式便器
+男用小便池|男性用便器
+洗脸台|洗面台
+浴缸（纵）|バスタブ（縦）
+浴缸（横）|バスタブ（横）
+浴缸（横）|バスタブ（横）
+玻璃茶几（纵）|ガラステーブル（縦）
+洗衣机|洗濯機
+西式马桶|洋式便器
+男用小便池|男性用便器
+洗脸台|洗面台
+浴缸（纵）|バスタブ（縦）
+玻璃茶几（横）|ガラステーブル（横）
+玻璃茶几（横）|ガラステーブル（横）
+玻璃茶几（纵）|ガラステーブル（縦）
+冰箱|冷蔵庫
+书架A|本棚A
+五斗柜A|タンスA
+杂物架|雑貨棚
+保险柜A|ロッカーA
+文件柜|資料棚
+药品架|薬品棚
+保险柜B（学校）|ロッカーB（学校）
+冰箱|冷蔵庫
+书架A|本棚A
+五斗柜A|タンスA
+杂物架 |雑貨棚
+保险柜A|ロッカーA
+文件柜|資料棚
+药品架|薬品棚
+保险柜B（学校）|ロッカーB（学校）
+商品展示架A|商品陳列棚A
+商品展示架B|商品陳列棚B
+便利店货架A|コンビニ棚A
+便利店货架B|コンビニ棚B
+文件柜 （废墟）|資料棚（廃墟）
+五斗柜B（装饰）|タンスB（装飾）
+架子A（装饰）|棚A（装飾）
+书架B（装饰）|本棚B（装飾）
+商品展示架A|商品陳列棚A
+商品展示架B|商品陳列棚B
+便利店货架A|コンビニ棚A
+便利店货架B|コンビニ棚B
+文件柜（废墟）|資料棚（廃墟）
+五斗柜B（装饰）|タンスB（装飾）
+架子A（装饰）|棚A（装飾）
+书架B（装饰）|本棚B（装飾）
+堆叠的木箱|積まれた木箱
+集装箱|コンテナ
+堆叠的纸箱|積まれたダンボール
+自动售货机|自動販売機
+自动柜员机|ATM
+铁架|鉄骨棚
+手术台|手術台
+病床|病院ベッド
+堆叠的木箱|積まれた木箱
+集装箱|コンテナ
+堆叠的纸箱|積まれたダンボール
+自动售货机|自動販売機
+自动柜员机|ATM
+铁架|鉄骨棚
+手术台|手術台
+病床|病院ベッド
+床|ベッド
+褥子|敷布団
+双人床|ダブルベッド
+双人床|ダブルベッド
+铁架床|パイプベッド
+老虎机|スロット
+扑克桌|ポーカー台
+扑克桌|ポーカー台
+床|ベッド
+褥子|敷布団
+双人床|ダブルベッド
+双人床|ダブルベッド
+铁架床|パイプベッド
+老虎机|スロット
+扑克桌|ポーカー台
+扑克桌|ポーカー台
+矮柜A（木制）|チェストA（木製）
+矮柜B（金属）|チェストB（金属）
+矮柜C（装饰）|チェストC（装飾）
+大桌子A|大きいデスクA
+大桌子A|大きいデスクA
+轮盘赌桌|ルーレット台
+轮盘赌桌|ルーレット台
+轮盘赌桌|ルーレット台
+侧桌A（木制）|サイドデスクA（木製）
+侧桌B（金属）|サイドデスクB（金属）
+桌子|デスク
+大桌子B|大きいデスクB
+大桌子B|大きいデスクB
+轮盘赌桌|ルーレット台
+轮盘赌桌|ルーレット台
+轮盘赌桌|ルーレット台

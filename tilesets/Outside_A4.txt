@@ -1,48 +1,48 @@
-﻿Wall A (Stone)|壁A（石）
-Wall B (Brick)|壁B（レンガ）
-Wall C (Stone)|壁C（石）
-Wall D (Stone)|壁D（石）
-Wall E (Stone)|壁E（石）
-Wall F (Marble)|壁F（大理石）
-Wall G (Hedge)|壁G（生け垣）
-Wall G (Frozen)|壁H（凍結）
-Wall A (Stone)|壁A（石）
-Wall B (Brick)|壁B（レンガ）
-Wall C (Stone)|壁C（石）
-Wall D (Stone)|壁D（石）
-Wall E (Stone)|壁E（石）
-Wall F (Marble)|壁F（大理石）
-Wall G (Hedge)|壁G（生け垣）
-Wall G (Frozen)|壁H（凍結）
-Building A (Urban)|建物A（都会風）
-Building B (Dirt Wall)|建物B（土壁）
-Building C (Desert)|建物C（砂漠風）
-Building D (Temple, Snow)|建物D（神殿・雪）
-Building E (Castle)|建物E（城）
-Building F (Castle, Snow)|建物F（城・雪）
-Building G (Fort)|建物G（砦）
-Building H (Fort, Snow)|建物H（砦・雪）
-Building A (Urban)|建物A（都会風）
-Building B (Dirt Wall)|建物B（土壁）
-Building C (Desert)|建物C（砂漠風）
-Building D (Temple, Snow)|建物D（神殿・雪）
-Building E (Castle)|建物E（城）
-Building F (Castle, Snow)|建物F（城・雪）
-Building G (Fort)|建物G（砦）
-Building H (Fort, Snow)|建物H（砦・雪）
-Ledge A (Meadow)|段差A（草地）
-Ledge B (Dirt)|段差B（土）
-Ledge C (Desert)|段差C（砂地）
-Ledge D (Snow)|段差D（雪）
-Ledge E (Paved)|段差E（舗装）
-Forest A|森A
-Forest B (Snow)|森B（雪）
-Demon Castle|魔王城
-Cliff A (Meadow)|崖A（草地）
-Cliff B (Dirt)|崖B（土）
-Cliff C (Desert)|崖C（砂地）
-Cliff D (Snow)|崖D（雪）
-Wall (Paved)|壁（舗装）
-Forest A|森A
-Forest B (Snow)|森B（雪）
-Demon Castle|魔王城
+﻿墙A（石）|壁A（石）
+墙B（砖）壁B（レンガ）
+墙C（石）|壁C（石）
+墙D（石）|壁D（石）
+墙E（石）|壁E（石）
+墙F（大理石）|壁F（大理石）
+墙G（树篱）|壁G（生け垣）
+墙H（冻结）|壁H（凍結）
+墙A（石）|壁A（石）
+墙B（砖）壁B（レンガ）
+墙C（石）|壁C（石）
+墙D（石）|壁D（石）
+墙E（石）|壁E（石）
+墙F（大理石）|壁F（大理石）
+墙G（树篱）|壁G（生け垣）
+墙H（冻结）|壁H（凍結）
+建筑物A（城市风格）|建物A（都会風）
+建筑物B（土墙）|建物B（土壁）
+建筑物C（沙漠风格）|建物C（砂漠風）
+建筑物D（神殿·雪）|建物D（神殿・雪）
+建筑物E（城堡）|建物E（城）
+建筑物F（城堡·雪）|建物F（城・雪）
+建筑物G（要塞）|建物G（砦）
+建筑物H（要塞·雪）|建物H（砦・雪）
+建筑物A（城市风格）|建物A（都会風）
+建筑物B（土墙）|建物B（土壁）
+建筑物C（沙漠风格）|建物C（砂漠風）
+建筑物D（神殿·雪）|建物D（神殿・雪）
+建筑物E（城堡）|建物E（城）
+建筑物F（城堡·雪）|建物F（城・雪）
+建筑物G（要塞）|建物G（砦）
+建筑物H（要塞·雪）|建物H（砦・雪）
+高台A（草地）|段差A（草地）
+高台B（土）|段差B（土）
+高台C（沙地）|段差C（砂地）
+高台D（雪）|段差D（雪）
+高台E（铺砌）|段差E（舗装）
+森林A|森A
+森林B（雪）|森B（雪）
+魔王城|魔王城
+悬崖A（草地）|崖A（草地）
+悬崖B（土）|崖B（土）
+悬崖C（沙漠风格）|崖C（砂地）
+悬崖D（雪）|崖D（雪）
+墙（铺砌）|壁（舗装）
+森林A|森A
+森林B（雪）|森B（雪）
+魔王城|魔王城
