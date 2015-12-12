@@ -5,7 +5,7 @@
     <name>EventCommandTexts</name>
     <message>
         <source> </source>
-        <translation> </translation>
+        <translation>的时候</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Gold</source>
-        <translation>金币</translation>
+        <translation>所持金</translation>
     </message>
     <message>
         <source>None</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Skip</source>
-        <translation>跳过</translation>
+        <translation>略过</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>When </source>
-        <translation>当 </translation>
+        <translation> </translation>
     </message>
     <message>
         <source>%1 has equipped %2</source>
@@ -61,59 +61,59 @@
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>与随机冲突相同</translation>
+        <translation>与随机遇敌相同</translation>
     </message>
     <message>
         <source>The number of %1</source>
-        <translation>%1 数</translation>
+        <translation>%1的数目</translation>
     </message>
     <message>
         <source>%1 is %2</source>
-        <translation>%1 为 %2</translation>
+        <translation>%1是%2</translation>
     </message>
     <message>
         <source>%1 of %2</source>
-        <translation>%2 的 %1</translation>
+        <translation>%2的%1</translation>
     </message>
     <message>
         <source>Party has %1</source>
-        <translation>队伍有 %1</translation>
+        <translation>队伍持有%1</translation>
     </message>
     <message>
         <source>Entire Party</source>
-        <translation>整个队伍</translation>
+        <translation>队伍全体</translation>
     </message>
     <message>
         <source>Entire Troop</source>
-        <translation>整个敌群</translation>
+        <translation>敌群全体</translation>
     </message>
     <message>
         <source>%1 is in the party</source>
-        <translation>%1 在队伍中</translation>
+        <translation>%1在队伍中</translation>
     </message>
     <message>
         <source>%1 is appeared</source>
-        <translation>%1 出现</translation>
+        <translation>%1出现了</translation>
     </message>
     <message>
         <source>Name of %1 is %2</source>
-        <translation>%1 的名称为 %2</translation>
+        <translation>%1的名称是%2</translation>
     </message>
     <message>
         <source>%1 is driven</source>
-        <translation>%1 被驾驶</translation>
+        <translation>%1被乘坐</translation>
     </message>
     <message>
         <source>Remove %1</source>
-        <translation>移除 %1</translation>
+        <translation>移除%1</translation>
     </message>
     <message>
         <source>Add %1</source>
-        <translation>添加 %1</translation>
+        <translation>添加%1</translation>
     </message>
     <message>
         <source>Exchange with %1</source>
-        <translation>与 %1 交换</translation>
+        <translation>与%1交换</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -121,7 +121,7 @@
     </message>
     <message>
         <source>Random</source>
-        <translation>随机</translation>
+        <translation>随机数</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Class of %1 is %2</source>
-        <translation>%1 的职业为 %2</translation>
+        <translation>%1的职业是%2</translation>
     </message>
     <message>
         <source> digits</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>No Fast Forward</source>
-        <translation>不快进</translation>
+        <translation>不能快进</translation>
     </message>
     <message>
         <source>%1 is affected by %2</source>
@@ -320,7 +320,7 @@
     </message>
     <message>
         <source>Gold</source>
-        <translation>金币</translation>
+        <translation>所持金</translation>
     </message>
     <message>
         <source>Item</source>
@@ -525,7 +525,7 @@
     <message>
         <source>Normal</source>
         <comment>Normal blending</comment>
-        <translation>通常</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>Raise Preemptive</source>
-        <translation>提升先制攻击率</translation>
+        <translation>先制攻击率提升</translation>
     </message>
     <message>
         <source>1 Enemy</source>
@@ -632,7 +632,7 @@
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>LUK。影响异常状态的发生几率。</translation>
+        <translation>LUK。影响异常状态的发生概率。</translation>
     </message>
     <message>
         <source>Battle Count</source>
@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>Show Level Up</source>
-        <translation>表示升级</translation>
+        <translation>显示升级</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -986,11 +986,11 @@
     </message>
     <message>
         <source>Encounter Half</source>
-        <translation>遇敌率减半</translation>
+        <translation>随机遇敌减半</translation>
     </message>
     <message>
         <source>Encounter None</source>
-        <translation>遇敌率无效</translation>
+        <translation>不会随机遇敌</translation>
     </message>
     <message>
         <source>MP Regeneration</source>
@@ -1026,7 +1026,7 @@
     </message>
     <message>
         <source>Futuristic Sword</source>
-        <translation>近未来剑</translation>
+        <translation>科幻剑</translation>
     </message>
     <message>
         <source>Shotgun</source>
@@ -1746,11 +1746,11 @@ the Attack command.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation>内装</translation>
+        <translation>室内</translation>
     </message>
     <message>
         <source>SF Inside</source>
-        <translation>近未来内装</translation>
+        <translation>科幻室内</translation>
     </message>
     <message>
         <source>Magic Water</source>
@@ -1909,11 +1909,11 @@ the Attack command.</source>
     </message>
     <message>
         <source>Outside</source>
-        <translation>外观</translation>
+        <translation>室外</translation>
     </message>
     <message>
         <source>SF Outside</source>
-        <translation>近未来外观</translation>
+        <translation>科幻室外</translation>
     </message>
     <message>
         <source> flees.</source>
@@ -1990,7 +1990,7 @@ the Attack command.</source>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation>但是，逃跑是不可能的！</translation>
+        <translation>然而无法逃跑！</translation>
     </message>
     <message>
         <source>Glowing Light</source>
@@ -2077,7 +2077,7 @@ the Attack command.</source>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>现在的%1</translation>
+        <translation>当前%1</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -2122,7 +2122,7 @@ the Attack command.</source>
     </message>
     <message>
         <source>Possession</source>
-        <translation>持有数量</translation>
+        <translation>持有数</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
@@ -3346,7 +3346,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>暂时使用一种颜色填充整画面，然后逐渐恢复到原始颜色。</translation>
+        <translation>暂时使用一种颜色填充整个画面，然后逐渐恢复到原始颜色。</translation>
     </message>
     <message>
         <source>Get Location Info</source>
@@ -4730,7 +4730,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the right or left.</source>
-        <translation>从现在的方向，向右或左90度的方向旋转。</translation>
+        <translation>从当前方向，向右或左90度的方向旋转。</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
@@ -4742,7 +4742,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces the opposite direction.</source>
-        <translation>面对现在朝向的相反方向。</translation>
+        <translation>面对当前朝向的相反方向。</translation>
     </message>
     <message>
         <source>Stepping Animation ON</source>
@@ -4758,7 +4758,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the right.</source>
-        <translation>面向从现在朝向向右90度旋转的方向。</translation>
+        <translation>面向从当前朝向向右90度旋转的方向。</translation>
     </message>
     <message>
         <source>Move at Random</source>
@@ -4858,7 +4858,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>不改变朝向，往现在面向相反的方向移动。</translation>
+        <translation>不改变朝向，往当前面向相反的方向移动。</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
@@ -5014,7 +5014,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Faces 90 degrees to the left.</source>
-        <translation>面向从现在朝向向左90度旋转的方向。</translation>
+        <translation>面向从当前朝向向左90度旋转的方向。</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
@@ -5803,7 +5803,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Gold</source>
-        <translation>金币</translation>
+        <translation>所持金</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6102,7 +6102,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Sunset</source>
@@ -6310,7 +6310,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>[SV] Motion</source>
@@ -6493,7 +6493,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Sets whether a normal character can pass through the tile.&lt;br&gt;○ : passable&lt;br&gt;✕ : impassable&lt;br&gt;☆ : passable under the tile</source>
-        <translation>设置标准人物是否可通过图块。&lt;br&gt;○ : 可通过&lt;br&gt;✕ : 不可通过&lt;br&gt;☆ : 图块下方可通过</translation>
+        <translation>设置普通人物是否可通过图块。&lt;br&gt;○ : 可通过&lt;br&gt;✕ : 不可通过&lt;br&gt;☆ : 图块下方可通过</translation>
     </message>
     <message>
         <source>Sets the character as looking upward when on this tile. This makes it look like the character is grabbing onto a ladder attached to a wall.</source>
@@ -6513,7 +6513,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Sets the direction from which a normal character can enter the tile. Possible entries/exits are indicated by arrows.</source>
-        <translation>设定放置图块处通常人物能否从某个方向出入。箭头标记表示是否可以出入。</translation>
+        <translation>设定放置图块处普通人物能否从某个方向出入。箭头标记表示是否可以出入。</translation>
     </message>
     <message>
         <source>Passage</source>
@@ -6937,7 +6937,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>EXP Total</source>
-        <translation>现在的经验值</translation>
+        <translation>当前经验值</translation>
     </message>
     <message>
         <source>Escape Start</source>
@@ -7148,7 +7148,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Above characters</source>
-        <translation>高于人物</translation>
+        <translation>普通人物之上</translation>
     </message>
     <message>
         <source>Opens the route setting window when the movement type is [Custom].</source>
@@ -7168,7 +7168,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Same as characters</source>
-        <translation>与人物相同</translation>
+        <translation>与普通人物相同</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is not moving.</source>
@@ -7188,7 +7188,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>事件的显示优先级。然而，当图像为图块且优先级为［低于人物］时，将使用图块的设置。</translation>
+        <translation>事件的显示优先级。然而，当图像为图块且优先级为［普通人物之下］时，将使用图块的设置。</translation>
     </message>
     <message>
         <source>Approach</source>
@@ -7240,7 +7240,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Below characters</source>
-        <translation>低于人物</translation>
+        <translation>普通人物之下</translation>
     </message>
     <message>
         <source>Condition to start the event.&lt;br&gt;[Action Button] Starts when the player presses the button.&lt;br&gt;[Player Touch] In addition to the above, starts when the player touches the event.&lt;br&gt;[Event Touch] In addition to the above, starts when the event touches the player.&lt;br&gt;[Autorun] Starts when the event appears.&lt;br&gt;[Parallel] Runs cyclically while the event is present.</source>
@@ -9482,7 +9482,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Rate of change for the specified parameter.</source>
-        <translation>指定能力值的变化率。</translation>
+        <translation>指定普通能力值的变化率。</translation>
     </message>
     <message>
         <source>Equip Armor</source>
@@ -9562,7 +9562,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Parameter</source>
-        <translation>通常能力值</translation>
+        <translation>普通能力值</translation>
     </message>
     <message>
         <source>Attack State</source>
@@ -10207,7 +10207,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>标准</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Images to be used in this tileset.</source>
@@ -10838,7 +10838,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Saves the current settings.</source>
-        <translation>保存目前设定。</translation>
+        <translation>保存当前设定。</translation>
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
