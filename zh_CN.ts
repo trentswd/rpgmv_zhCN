@@ -2307,7 +2307,7 @@ the Attack command.</source>
     </message>
     <message>
         <source>Overworld</source>
-        <translation>野外</translation>
+        <translation>世界地图</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went down!</source>
@@ -6509,7 +6509,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Enables a tile to start an event that is not directly next to it. When a tile with the counter attribute is between the character and the event, the event will start as if the character is right next to it, even if it would not normally do so. When this attribute is given to a terrain autotile, it is considered to be a table and will be drawn by extending it 12 pixels downward.</source>
-        <translation>设置图块使其具有越过柜台开始事件的特征。通常情况下，玩家和事件不相邻时无法开始事件，而在两者中间夹着设置有柜台属性的图块时，不相邻的事件可以开始。当将该属性赋予一个地形自动图块时，其被视为一个「桌子」，绘制时将在下方延长12个像素。</translation>
+        <translation>设置图块使其具有越过柜台开始事件的特征。通常情况下，玩家和事件不相邻时无法开始事件，而在两者中间夹着设置有柜台属性的图块时，不相邻的事件可以开始。当将该属性赋予一个地形自动元件时，其被视为一个「桌子」，绘制时将在下方延长12个像素。</translation>
     </message>
     <message>
         <source>Sets the direction from which a normal character can enter the tile. Possible entries/exits are indicated by arrows.</source>
@@ -6521,7 +6521,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Behavior of terrain autotiles. As a general rule, [World Type] is applied to overworld tilesets and [Area Type] is applied to others. For more information, see the [Resource Specification] page in Help.</source>
-        <translation>设定地形自动图块行为。原则上，［世界类型］应用于大地图图块组，而［区域类型］应用于其他图块组。详细信息参见帮助中的［素材规格］页面。</translation>
+        <translation>设定地形自动元件行为。原则上，［世界类型］应用于大地图图块组，而［区域类型］应用于其他图块组。详细信息参见帮助中的［素材规格］页面。</translation>
     </message>
     <message>
         <source>Basic tileset settings.</source>
