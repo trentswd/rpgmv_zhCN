@@ -827,27 +827,27 @@
     </message>
     <message>
         <source>Choice #1</source>
-        <translation>选择肢 #1</translation>
+        <translation>选择项 #1</translation>
     </message>
     <message>
         <source>Choice #2</source>
-        <translation>选择肢 #2</translation>
+        <translation>选择项 #2</translation>
     </message>
     <message>
         <source>Choice #3</source>
-        <translation>选择肢 #3</translation>
+        <translation>选择项 #3</translation>
     </message>
     <message>
         <source>Choice #4</source>
-        <translation>选择肢 #4</translation>
+        <translation>选择项 #4</translation>
     </message>
     <message>
         <source>Choice #5</source>
-        <translation>选择肢 #5</translation>
+        <translation>选择项 #5</translation>
     </message>
     <message>
         <source>Choice #6</source>
-        <translation>选择肢 #6</translation>
+        <translation>选择项 #6</translation>
     </message>
     <message>
         <source>Last Target</source>
@@ -3666,7 +3666,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Show Choices</source>
-        <translation>显示选择肢</translation>
+        <translation>显示选择项</translation>
     </message>
     <message>
         <source>Recover All</source>
@@ -3742,7 +3742,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Displays a list of choices and branches handling.</source>
-        <translation>显示选择肢，事件处理进行分歧。</translation>
+        <translation>显示选择项，进行分歧处理。</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
