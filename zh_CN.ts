@@ -807,7 +807,7 @@
     </message>
     <message>
         <source>Screen</source>
-        <translation>画面</translation>
+        <translation>滤色</translation>
     </message>
     <message>
         <source>Status</source>
@@ -1115,7 +1115,7 @@
     </message>
     <message>
         <source>Multiply</source>
-        <translation>乘法</translation>
+        <translation>正片叠底</translation>
     </message>
     <message>
         <source>Target Rate</source>
