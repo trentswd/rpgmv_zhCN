@@ -806,6 +806,10 @@
         <translation>保持原状</translation>
     </message>
     <message>
+        <source>Screen</source>
+        <translation>画面</translation>
+    </message>
+    <message>
         <source>Status</source>
         <translation>状态</translation>
     </message>
@@ -1108,6 +1112,10 @@
         <source>Middle</source>
         <comment>Horizontal</comment>
         <translation>中</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <translation>乘法</translation>
     </message>
     <message>
         <source>Target Rate</source>
@@ -3971,6 +3979,21 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Dialog_PluginHelpEverywhere</name>
+    <message>
+        <source>ON</source>
+        <translation>ON</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation>OFF</translation>
+    </message>
+    <message>
+        <source>Plugin Help</source>
+        <translation>插件帮助</translation>
+    </message>
+</context>
+<context>
     <name>Dialog_PluginManager</name>
     <message>
         <source>ON</source>
@@ -3991,6 +4014,10 @@ the Guard command.</source>
     <message>
         <source>Plugin Manager</source>
         <translation>插件管理器</translation>
+    </message>
+    <message>
+        <source>Discard changes to the plugins?</source>
+        <translation>插件的更变内容不会保存。确定吗？</translation>
     </message>
     <message>
         <source>Status</source>
@@ -5101,6 +5128,65 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Dialog_ResourceManager</name>
+    <message>
+        <source>*.*</source>
+        <translation>*.*</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Export the selected file</source>
+        <translation>导出选择的文件</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation>关闭该窗口。</translation>
+    </message>
+    <message>
+        <source>Delete the selected file</source>
+        <translation>删除选择的文件</translation>
+    </message>
+    <message>
+        <source>File to export to</source>
+        <translation>要导出的文件</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>导出</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation>导入</translation>
+    </message>
+    <message>
+        <source>Resource Manager</source>
+        <translation>素材管理</translation>
+    </message>
+    <message>
+        <source>File to import</source>
+        <translation>要导入的文件</translation>
+    </message>
+    <message>
+        <source>Import a file into the selected folder.</source>
+        <translation>将一个文件导入到选择的目录中。</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>Preview the selected file</source>
+        <translation>预览选择的文件。</translation>
+    </message>
+</context>
+<context>
     <name>EventCommand140</name>
     <message>
         <source>BGM</source>
@@ -5493,6 +5579,10 @@ the Guard command.</source>
         <translation>开启帮助。</translation>
     </message>
     <message>
+        <source>Opens the Resource Manager window.</source>
+        <translation>打开素材管理窗口。</translation>
+    </message>
+    <message>
         <source>Save Project</source>
         <translation>保存工程</translation>
     </message>
@@ -5571,6 +5661,10 @@ the Guard command.</source>
     <message>
         <source>Pencil</source>
         <translation>铅笔</translation>
+    </message>
+    <message>
+        <source>Resource Manager</source>
+        <translation>素材管理</translation>
     </message>
     <message>
         <source>Inserts the contents of the clipboard.</source>
@@ -5781,6 +5875,37 @@ the Guard command.</source>
     <message>
         <source>Clear</source>
         <translation>清除</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>粘贴</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>全选</translation>
+    </message>
+</context>
+<context>
+    <name>TextEditPopupMenu</name>
+    <message>
+        <source>Cut</source>
+        <translation>剪切</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>重做</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>撤销</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -10312,6 +10437,10 @@ the Guard command.</source>
         <translation>职业</translation>
     </message>
     <message>
+        <source>Discard changes to the database?</source>
+        <translation>数据库的变更内容不会保存。确定吗？</translation>
+    </message>
+    <message>
         <source>Data defining the behavior of tilesets for maps.</source>
         <translation>定义地图用的图块组的行为的数据。</translation>
     </message>
@@ -10613,6 +10742,14 @@ the Guard command.</source>
     <message>
         <source>Actor to change the class.</source>
         <translation>要更改职业的角色。</translation>
+    </message>
+    <message>
+        <source>Save Level</source>
+        <translation>保存等级</translation>
+    </message>
+    <message>
+        <source>Save the current level of the actor.</source>
+        <translation>保存当前角色的等级。</translation>
     </message>
     <message>
         <source>New class of the actor.</source>
@@ -10936,6 +11073,21 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>MenuItem_IconSetViewer</name>
+    <message>
+        <source>Icon Index</source>
+        <translation>图标编号</translation>
+    </message>
+    <message>
+        <source>Index number of the selected icon.</source>
+        <translation>选择图标的索引编号。</translation>
+    </message>
+    <message>
+        <source>IconSet Viewer</source>
+        <translation>图标集查看器</translation>
+    </message>
+</context>
+<context>
     <name>ObjIconImageBox</name>
     <message>
         <source>Icon Index</source>
@@ -11175,6 +11327,13 @@ the Guard command.</source>
     <message>
         <source>Level for learning the skill.</source>
         <translation>习得该技能的等级。</translation>
+    </message>
+</context>
+<context>
+    <name>MenuItem_PluginHelpEverywhere</name>
+    <message>
+        <source>Plugin Help</source>
+        <translation>插件帮助</translation>
     </message>
 </context>
 <context>
@@ -11575,6 +11734,10 @@ the Guard command.</source>
         <source>Event Editor</source>
         <translation>事件编辑器</translation>
     </message>
+    <message>
+        <source>Discard changes to this event?</source>
+        <translation>该事件的变更内容不会保存。确定吗？</translation>
+    </message>
 </context>
 <context>
     <name>AnimationFrameList</name>
@@ -11666,6 +11829,97 @@ the Guard command.</source>
     <message>
         <source>Unexpected file format.</source>
         <translation>非预期文件格式。</translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Deployment</name>
+    <message>
+        <source>Creates a package for web browsers.</source>
+        <translation>创建浏览器用的软件包。</translation>
+    </message>
+    <message>
+        <source>Platform</source>
+        <translation>平台</translation>
+    </message>
+    <message>
+        <source>Deployment</source>
+        <translation>部署</translation>
+    </message>
+    <message>
+        <source>Choose</source>
+        <translation>选择</translation>
+    </message>
+    <message>
+        <source>Chooses the location.</source>
+        <translation>选择位置。</translation>
+    </message>
+    <message>
+        <source>Location to create the package folder.</source>
+        <translation>要创建软件包文件夹的位置。</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>选项</translation>
+    </message>
+    <message>
+        <source>Creates a package for Android and iOS.</source>
+        <translation>创建Android/iOS用的软件包。</translation>
+    </message>
+    <message>
+        <source>Mac OS X</source>
+        <translation>Mac OS X</translation>
+    </message>
+    <message>
+        <source>Creates a package for Windows.</source>
+        <translation>创建Windows用的软件包。</translation>
+    </message>
+    <message>
+        <source>Set the deployment options.</source>
+        <translation>设定发布选项。</translation>
+    </message>
+    <message>
+        <source>Files that are not used in the game, will be excluded in the deployment.</source>
+        <translation>游戏中没有使用的文件将会在发布中排除。</translation>
+    </message>
+    <message>
+        <source>Target platform of the distribution package.</source>
+        <translation>发布用软件包的目标平台。</translation>
+    </message>
+    <message>
+        <source>Creates a package for Mac OS X.</source>
+        <translation>创建Mac OS X用的软件包。</translation>
+    </message>
+    <message>
+        <source>Path name is too long.</source>
+        <translation>路径名称过长。</translation>
+    </message>
+    <message>
+        <source>Location is empty.</source>
+        <translation>位置为空。</translation>
+    </message>
+    <message>
+        <source>Windows</source>
+        <translation>Windows</translation>
+    </message>
+    <message>
+        <source>Choose Directory</source>
+        <translation>选择目录</translation>
+    </message>
+    <message>
+        <source>Android / iOS</source>
+        <translation>Android / iOS</translation>
+    </message>
+    <message>
+        <source>Web browsers</source>
+        <translation>浏览器</translation>
+    </message>
+    <message>
+        <source>Output Location</source>
+        <translation>导出位置</translation>
+    </message>
+    <message>
+        <source>Exclude unused files</source>
+        <translation>排除未使用文件</translation>
     </message>
 </context>
 <context>
@@ -11914,6 +12168,13 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Dialog_ResourcePreview</name>
+    <message>
+        <source>Resource Preview</source>
+        <translation>素材预览</translation>
+    </message>
+</context>
+<context>
     <name>Group_SystemOptions</name>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
@@ -12124,73 +12385,6 @@ the Guard command.</source>
     <message>
         <source>Parameter</source>
         <translation>能力值</translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Deployment</name>
-    <message>
-        <source>Platform</source>
-        <translation>平台</translation>
-    </message>
-    <message>
-        <source>Deployment</source>
-        <translation>部署</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation>选择</translation>
-    </message>
-    <message>
-        <source>Chooses the location.</source>
-        <translation>选择位置。</translation>
-    </message>
-    <message>
-        <source>Location to create the package folder.</source>
-        <translation>要创建软件包文件夹的位置。</translation>
-    </message>
-    <message>
-        <source>Creates a package for Android and iOS.</source>
-        <translation>创建Android/iOS用的软件包。</translation>
-    </message>
-    <message>
-        <source>Mac OS X</source>
-        <translation>Mac OS X</translation>
-    </message>
-    <message>
-        <source>Creates a package for Windows.</source>
-        <translation>创建Windows用的软件包。</translation>
-    </message>
-    <message>
-        <source>Target platform of the distribution package.</source>
-        <translation>发布用软件包的目标平台。</translation>
-    </message>
-    <message>
-        <source>Creates a package for Mac OS X.</source>
-        <translation>创建Mac OS X用的软件包。</translation>
-    </message>
-    <message>
-        <source>Path name is too long.</source>
-        <translation>路径名称过长。</translation>
-    </message>
-    <message>
-        <source>Location is empty.</source>
-        <translation>位置为空。</translation>
-    </message>
-    <message>
-        <source>Windows</source>
-        <translation>Windows</translation>
-    </message>
-    <message>
-        <source>Choose Directory</source>
-        <translation>选择目录</translation>
-    </message>
-    <message>
-        <source>Android / iOS</source>
-        <translation>Android / iOS</translation>
-    </message>
-    <message>
-        <source>Output Location</source>
-        <translation>导出位置</translation>
     </message>
 </context>
 <context>
