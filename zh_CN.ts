@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>暗色</translation>
     </message>
     <message>
         <source>Down</source>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>智能</translation>
     </message>
     <message>
         <source>Spear</source>
@@ -1022,7 +1022,7 @@
     </message>
     <message>
         <source>Dropdown</source>
-        <translation type="unfinished"></translation>
+        <translation>下拉菜单</translation>
     </message>
     <message>
         <source>Crossbow</source>
@@ -1082,7 +1082,7 @@
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Defense</source>
@@ -1098,11 +1098,11 @@
     </message>
     <message>
         <source>High Contrast Black</source>
-        <translation type="unfinished"></translation>
+        <translation>高对比度黑色</translation>
     </message>
     <message>
         <source>High Contrast White</source>
-        <translation type="unfinished"></translation>
+        <translation>高对比度白色</translation>
     </message>
     <message>
         <source>Blend mode used when the cell is drawn.</source>
@@ -1295,7 +1295,7 @@
     </message>
     <message>
         <source>Extended</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
@@ -4057,7 +4057,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4607,256 +4607,257 @@ the Guard command.</source>
     <name>SteamWindow</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>时间</translation>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam管理</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Data:</source>
-        <translation type="unfinished"></translation>
+        <translation>数据：</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>本地</translation>
     </message>
     <message>
         <source>Owned</source>
-        <translation type="unfinished"></translation>
+        <translation>拥有</translation>
     </message>
     <message>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>分享上传你的创意工坊项目时遭遇超时。</translation>
     </message>
     <message>
         <source>Steam API Available: No</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam API 可用：否</translation>
     </message>
     <message>
         <source>Could not find the project file associated with this workshop item.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到该创意工坊项目关联的工程文件。</translation>
     </message>
     <message>
         <source>Select Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>选择略缩图</translation>
     </message>
     <message>
         <source>Share on Workshop</source>
-        <translation type="unfinished"></translation>
+        <translation>在创意工坊上分享</translation>
     </message>
     <message>
         <source>You must select a valid Item Type for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个有效的项目类型。</translation>
     </message>
     <message>
         <source>Steam API Available:</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam API 可用：</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个有效的流派/资源类型。</translation>
     </message>
     <message>
         <source>Image to use</source>
-        <translation type="unfinished"></translation>
+        <translation>要使用的图片</translation>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建创意工坊项目，你没有登录到Steam！</translation>
     </message>
     <message>
         <source>Load Project</source>
-        <translation type="unfinished"></translation>
+        <translation>载入工程</translation>
     </message>
     <message>
         <source>*.png;*.jpg;*.jpeg</source>
-        <translation type="unfinished"></translation>
+        <translation>*.png;*.jpg;*.jpeg</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个有效的略缩图。</translation>
     </message>
     <message>
         <source>Steam Workshop:</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam创意工坊：</translation>
     </message>
     <message>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目输入一个有效的工程描述。</translation>
     </message>
     <message>
         <source>By submitting this item, 
  you agree to the</source>
-        <translation type="unfinished"></translation>
+        <translation>提交该项目时， 
+你同意了</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Projects:</source>
-        <translation type="unfinished"></translation>
+        <translation>工程：</translation>
     </message>
     <message>
         <source>The Thumbnail Image must be less than 1mb.</source>
-        <translation type="unfinished"></translation>
+        <translation>略缩图必须小于1MB。</translation>
     </message>
     <message>
         <source>Workshop</source>
-        <translation type="unfinished"></translation>
+        <translation>创意工坊</translation>
     </message>
     <message>
         <source>Game/Resource Flavor</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏/资源风格</translation>
     </message>
     <message>
         <source>Steam Workshop Agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam创意工坊协议</translation>
     </message>
     <message>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目输入一个有效的工程名。</translation>
     </message>
     <message>
         <source>It appears the currently loaded local project is not saved to the cloud, you can choose to save it to the cloud in the Steam Management Window.</source>
-        <translation type="unfinished"></translation>
+        <translation>似乎目前载入的本地工程没有保存到云端，你可以在Steam管理窗口中选择将它保存到云端。</translation>
     </message>
     <message>
         <source>Workshop Item</source>
-        <translation type="unfinished"></translation>
+        <translation>创意工坊项目</translation>
     </message>
     <message>
         <source>Graphics:</source>
-        <translation type="unfinished"></translation>
+        <translation>图示：</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个有效的流派/资源风格。</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>分类</translation>
     </message>
     <message>
         <source>Creating</source>
-        <translation type="unfinished"></translation>
+        <translation>创建中</translation>
     </message>
     <message>
         <source>Game Genre/Resource Type</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏流派/资源类型</translation>
     </message>
     <message>
         <source>Storage Available:</source>
-        <translation type="unfinished"></translation>
+        <translation>可用存储空间：</translation>
     </message>
     <message>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>进度</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个默认以外的有效略缩图。</translation>
     </message>
     <message>
         <source>Subscribed</source>
-        <translation type="unfinished"></translation>
+        <translation>已订阅</translation>
     </message>
     <message>
         <source>Update Info</source>
-        <translation type="unfinished"></translation>
+        <translation>更新信息</translation>
     </message>
     <message>
         <source>UNKNOWN</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>资源</translation>
     </message>
     <message>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法更新Steam创意工坊项目，你被社区禁止了。</translation>
     </message>
     <message>
         <source>Project Description</source>
-        <translation type="unfinished"></translation>
+        <translation>工程描述</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>Failed to obtain owned Workshop Items data.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获得拥有的创意工坊项目数据。</translation>
     </message>
     <message>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
-        <translation type="unfinished"></translation>
+        <translation>你需要接受Steam创意工坊协议。</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
-        <translation type="unfinished"></translation>
+        <translation>若需要将该创意工坊项目不止以私人方式出现，你仍然需要接受Steam创意工坊协议。</translation>
     </message>
     <message>
         <source>Storage Used:</source>
-        <translation type="unfinished"></translation>
+        <translation>已使用存储空间：</translation>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>试图更新创意工坊项目时遭遇了一个未知错误。</translation>
     </message>
     <message>
         <source>Storage Used: </source>
-        <translation type="unfinished"></translation>
+        <translation>已使用存储空间：</translation>
     </message>
     <message>
         <source>You must select a valid Visibility Level for the Workshop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation>你必须给创意工坊项目选择一个游戏有效的可见级别。</translation>
     </message>
     <message>
         <source>Project Name</source>
-        <translation type="unfinished"></translation>
+        <translation>工程名</translation>
     </message>
     <message>
         <source>Steam API Available: Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam API 可用：是</translation>
     </message>
     <message>
         <source>Storage Available: </source>
-        <translation type="unfinished"></translation>
+        <translation>可用存储空间：</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>可见</translation>
     </message>
     <message>
         <source>Edit And Play</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑并开始游戏</translation>
     </message>
 </context>
 <context>
@@ -5360,39 +5361,39 @@ the Guard command.</source>
     <name>Group_UI</name>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>用户界面</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation type="unfinished"></translation>
+        <translation>给在编辑器中选择游戏中对象（例如道具、武器、防具等）选择一个对象选择器。</translation>
     </message>
     <message>
         <source>Changes how the editor looks like.</source>
-        <translation type="unfinished"></translation>
+        <translation>改变编辑器的样式。</translation>
     </message>
     <message>
         <source>Chooses one based on the amount of objects automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>根据对象的数量自动选择。</translation>
     </message>
     <message>
         <source>Customizes the look and feel of the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义编辑器的界面外观。</translation>
     </message>
     <message>
         <source>Optimized for hundreds of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>为成百上千个对象优化</translation>
     </message>
     <message>
         <source>Object Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>对象选择器</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>为少于100个对象优化。</translation>
     </message>
 </context>
 <context>
@@ -5478,7 +5479,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Import files into the selected folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件到选择的文件夹。</translation>
     </message>
     <message>
         <source>File to export to</source>
@@ -5486,7 +5487,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>DLC...</source>
-        <translation type="unfinished"></translation>
+        <translation>DLC...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -5494,7 +5495,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Opens the DLC folder, for steam installations.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开Steam安装的DLC文件夹。</translation>
     </message>
     <message>
         <source>Export</source>
@@ -5522,11 +5523,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>File(s) to import</source>
-        <translation type="unfinished"></translation>
+        <translation>要导入的文件</translation>
     </message>
     <message>
         <source>Preview the selected file</source>
-        <translation>预览选择的文件。</translation>
+        <translation>预览选择的文件</translation>
     </message>
 </context>
 <context>
@@ -5742,7 +5743,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Actor to increase or decrease.</source>
-        <translation type="unfinished"></translation>
+        <translation>要增加或减少的角色。</translation>
     </message>
     <message>
         <source>Initialize</source>
@@ -5879,7 +5880,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam管理</translation>
     </message>
     <message>
         <source>About</source>
@@ -5959,7 +5960,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Manage Your Steam Cloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理你的Steam云。</translation>
     </message>
     <message>
         <source>Deployment</source>
@@ -5971,7 +5972,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Change editor settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>改变编辑器设定。</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
@@ -6043,7 +6044,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Copies the selection to the clipboard.</source>
@@ -6546,43 +6547,43 @@ the Guard command.</source>
     <name>Group_CheckerboardColor</name>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>红</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>绿</translation>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation type="unfinished"></translation>
+        <translation>预览透明颜色如何显示。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>透明颜色</translation>
     </message>
     <message>
         <source>R value of the transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>透明颜色的R值。</translation>
     </message>
     <message>
         <source>G value of the transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>透明颜色的G值。</translation>
     </message>
     <message>
         <source>B value of the transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>透明颜色的B值。</translation>
     </message>
     <message>
         <source>Sets the color to use as the transparency background in the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>在编辑器中将该颜色设置为作透明背景使用。</translation>
     </message>
 </context>
 <context>
@@ -9398,75 +9399,75 @@ the Guard command.</source>
     <name>Dialog_GameObjectSelector</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>List for selecting objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择对象的列表。</translation>
     </message>
     <message>
         <source>Tilesets</source>
-        <translation type="unfinished"></translation>
+        <translation>图块组</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished"></translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Actors</source>
-        <translation type="unfinished"></translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Armors</source>
-        <translation type="unfinished"></translation>
+        <translation>防具</translation>
     </message>
     <message>
         <source>Skills</source>
-        <translation type="unfinished"></translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>States</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Troops</source>
-        <translation type="unfinished"></translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <source>The objects in the selected range are displayed to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>在选择范围的对象在右边显示。</translation>
     </message>
     <message>
         <source>Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>对象选择</translation>
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;[F5]选择下一个项目。&lt;br&gt;[F4]选择上一个项目。</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>职业</translation>
     </message>
     <message>
         <source>Data List</source>
-        <translation type="unfinished"></translation>
+        <translation>数据列表</translation>
     </message>
     <message>
         <source>Group List</source>
-        <translation type="unfinished"></translation>
+        <translation>群组列表</translation>
     </message>
     <message>
         <source>Enemies</source>
-        <translation type="unfinished"></translation>
+        <translation>敌人</translation>
     </message>
     <message>
         <source>Weapons</source>
-        <translation type="unfinished"></translation>
+        <translation>武器</translation>
     </message>
 </context>
 <context>
@@ -9502,14 +9503,14 @@ the Guard command.</source>
     <name>GameObjectBox</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
     <name>GameObjectBox_EllipsisBox</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -10296,35 +10297,35 @@ the Guard command.</source>
     <name>Group_MapGrid</name>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>图块</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平</translation>
     </message>
     <message>
         <source>Turns the Map Editor grid display on/off.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开/关闭地图编辑器的网格显示。</translation>
     </message>
     <message>
         <source>Sets the horizontal spacing between grid tiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置网格图块间的水平距离。</translation>
     </message>
     <message>
         <source>Map Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>地图网格</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直</translation>
     </message>
     <message>
         <source>Sets the vertical spacing between grid tiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置网格图块间的垂直距离。</translation>
     </message>
 </context>
 <context>
@@ -10390,11 +10391,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Copy as HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>复制为HTML</translation>
     </message>
     <message>
         <source>Copy as Text</source>
-        <translation type="unfinished"></translation>
+        <translation>复制为文本</translation>
     </message>
 </context>
 <context>
@@ -12377,7 +12378,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="unfinished"></translation>
+        <translation>音频文件</translation>
     </message>
     <message>
         <source>Platform</source>
@@ -12389,7 +12390,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置加密选项。</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -12413,7 +12414,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished"></translation>
+        <translation>图片文件</translation>
     </message>
     <message>
         <source>Mac OS X</source>
@@ -12425,7 +12426,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>加密包括在包中的音频文件。</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
@@ -12445,7 +12446,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
@@ -12453,11 +12454,11 @@ the Guard command.</source>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入加密的密钥。</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished"></translation>
+        <translation>加密密钥</translation>
     </message>
     <message>
         <source>Location is empty.</source>
@@ -12485,7 +12486,7 @@ the Guard command.</source>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>加密包括在包中的图片文件。</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -13468,7 +13469,7 @@ the Guard command.</source>
     <name>Dialog_Options</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
 </context>
 <context>
