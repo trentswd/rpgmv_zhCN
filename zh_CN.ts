@@ -311,6 +311,10 @@
         <translation>棍</translation>
     </message>
     <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>下</translation>
     </message>
@@ -465,6 +469,10 @@
     <message>
         <source>Skill</source>
         <translation>技能</translation>
+    </message>
+    <message>
+        <source>Smart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spear</source>
@@ -1013,6 +1021,10 @@
         <translation>队形</translation>
     </message>
     <message>
+        <source>Dropdown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Crossbow</source>
         <translation>弩</translation>
     </message>
@@ -1069,6 +1081,10 @@
         <translation>援护</translation>
     </message>
     <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Defense</source>
         <translation>防御力</translation>
     </message>
@@ -1079,6 +1095,14 @@
     <message>
         <source>1 Random Enemy</source>
         <translation>敌方1人 随机</translation>
+    </message>
+    <message>
+        <source>High Contrast Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Contrast White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blend mode used when the cell is drawn.</source>
@@ -1268,6 +1292,10 @@
     <message>
         <source>Y coordinate of the cell.</source>
         <translation>绘制动画格的Y坐标。</translation>
+    </message>
+    <message>
+        <source>Extended</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Magic Evasion</source>
@@ -4028,6 +4056,10 @@ the Guard command.</source>
         <translation>扩展标准游戏系统的组件。</translation>
     </message>
     <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Description</source>
         <translation>描述</translation>
     </message>
@@ -4572,6 +4604,262 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>SteamWindow</name>
+    <message>
+        <source>No</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam API Available: No</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not find the project file associated with this workshop item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share on Workshop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Item Type for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam API Available:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.png;*.jpg;*.jpeg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam Workshop:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must input a valid Project Description for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By submitting this item, 
+ you agree to the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Projects:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Thumbnail Image must be less than 1mb.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workshop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game/Resource Flavor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam Workshop Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must input a valid Project Name for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It appears the currently loaded local project is not saved to the cloud, you can choose to save it to the cloud in the Steam Management Window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workshop Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game Genre/Resource Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage Available:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNKNOWN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to obtain owned Workshop Items data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to agree to the Steam Workshop User Agreement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage Used:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An unknown error occurred when attempting to update the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage Used: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select a valid Visibility Level for the Workshop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steam API Available: Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage Available: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit And Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_AnimationTimings</name>
     <message>
         <source>SE</source>
@@ -5069,6 +5357,45 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Group_UI</name>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes how the editor looks like.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chooses one based on the amount of objects automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customizes the look and feel of the editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimized for hundreds of objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Selector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimized for less than 100 objects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Tab_ConditionalBranch1</name>
     <message>
         <source>is</source>
@@ -5150,12 +5477,24 @@ the Guard command.</source>
         <translation>删除选择的文件</translation>
     </message>
     <message>
+        <source>Import files into the selected folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File to export to</source>
         <translation>要导出的文件</translation>
     </message>
     <message>
+        <source>DLC...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete</source>
         <translation>删除</translation>
+    </message>
+    <message>
+        <source>Opens the DLC folder, for steam installations.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export</source>
@@ -5180,6 +5519,10 @@ the Guard command.</source>
     <message>
         <source>Preview</source>
         <translation>预览</translation>
+    </message>
+    <message>
+        <source>File(s) to import</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview the selected file</source>
@@ -5398,6 +5741,10 @@ the Guard command.</source>
         <translation>选择添加或者移除角色。</translation>
     </message>
     <message>
+        <source>Actor to increase or decrease.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Initialize</source>
         <translation>初始化</translation>
     </message>
@@ -5531,6 +5878,10 @@ the Guard command.</source>
         <translation>撤销</translation>
     </message>
     <message>
+        <source>Steam Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About</source>
         <translation>版本信息</translation>
     </message>
@@ -5607,12 +5958,20 @@ the Guard command.</source>
         <translation>删除所选内容。</translation>
     </message>
     <message>
+        <source>Manage Your Steam Cloud.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Deployment</source>
         <translation>部署</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
         <translation>将范例地图添加为新地图。</translation>
+    </message>
+    <message>
+        <source>Change editor settings.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
@@ -5681,6 +6040,10 @@ the Guard command.</source>
     <message>
         <source>Zoom Out</source>
         <translation>缩小</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copies the selection to the clipboard.</source>
@@ -6177,6 +6540,49 @@ the Guard command.</source>
     <message>
         <source>Pan for audio playback.</source>
         <translation>音频播放的位相。</translation>
+    </message>
+</context>
+<context>
+    <name>Group_CheckerboardColor</name>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shows how the transparent color looks like.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R value of the transparent color.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>G value of the transparent color.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B value of the transparent color.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the color to use as the transparency background in the editor.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8989,6 +9395,81 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Dialog_GameObjectSelector</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List for selecting objects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilesets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Armors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skills</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>States</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Troops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The objects in the selected range are displayed to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enemies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weapons</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EnemyDropItemBox</name>
     <message>
         <source>None</source>
@@ -9015,6 +9496,20 @@ the Guard command.</source>
     <message>
         <source>None</source>
         <translation>无</translation>
+    </message>
+</context>
+<context>
+    <name>GameObjectBox</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GameObjectBox_EllipsisBox</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9798,6 +10293,41 @@ the Guard command.</source>
     </message>
 </context>
 <context>
+    <name>Group_MapGrid</name>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>tiles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turns the Map Editor grid display on/off.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the horizontal spacing between grid tiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the vertical spacing between grid tiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Group_BattleEvent</name>
     <message>
         <source>Span</source>
@@ -9857,6 +10387,14 @@ the Guard command.</source>
     <message>
         <source>Test</source>
         <translation>测试</translation>
+    </message>
+    <message>
+        <source>Copy as HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11838,12 +12376,20 @@ the Guard command.</source>
         <translation>创建浏览器用的软件包。</translation>
     </message>
     <message>
+        <source>Audio files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Platform</source>
         <translation>平台</translation>
     </message>
     <message>
         <source>Deployment</source>
         <translation>部署</translation>
+    </message>
+    <message>
+        <source>Set the Encryption options.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose</source>
@@ -11866,12 +12412,20 @@ the Guard command.</source>
         <translation>创建Android/iOS用的软件包。</translation>
     </message>
     <message>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mac OS X</source>
         <translation>Mac OS X</translation>
     </message>
     <message>
         <source>Creates a package for Windows.</source>
         <translation>创建Windows用的软件包。</translation>
+    </message>
+    <message>
+        <source>Encrypt a audio file that is included in the package.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
@@ -11890,8 +12444,20 @@ the Guard command.</source>
         <translation>创建Mac OS X用的软件包。</translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Path name is too long.</source>
         <translation>路径名称过长。</translation>
+    </message>
+    <message>
+        <source>Please enter the key of encryption.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption key</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location is empty.</source>
@@ -11916,6 +12482,10 @@ the Guard command.</source>
     <message>
         <source>Output Location</source>
         <translation>导出位置</translation>
+    </message>
+    <message>
+        <source>Encrypt a image file that is included in the package.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -12892,6 +13462,13 @@ the Guard command.</source>
     <message>
         <source>Weapon to increase or decrease.</source>
         <translation>要增加或减少的武器。</translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Options</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
